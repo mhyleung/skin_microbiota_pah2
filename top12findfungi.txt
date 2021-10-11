@@ -1,0 +1,1501 @@
+Sample	Species	RelativeAbundance	Overall	City
+LOR002C	Alternaria alternata	2.488322845	3.04	Baoding
+LOR002C	Alternaria arborescens	0	3.04	Baoding
+LOR002C	Amauroascus mutatus	0	3.04	Baoding
+LOR002C	Amauroascus niger	0	3.04	Baoding
+LOR002C	Chrysosporium queenslandicum	0	3.04	Baoding
+LOR002C	Clavaria fumosa	0	3.04	Baoding
+LOR002C	Malassezia furfur	0	3.04	Baoding
+LOR002C	Malassezia globosa	97.51167715	3.04	Baoding
+LOR002C	Malassezia restricta	0	3.04	Baoding
+LOR002C	Minor/Unclassified	0	3.04	Baoding
+LOR002C	Preussia sp. BSL10	0	3.04	Baoding
+LOR002C	Puccinia arachidis	0	3.04	Baoding
+LOR003C	Alternaria alternata	8.897137424	2.08	Baoding
+LOR003C	Alternaria arborescens	0	2.08	Baoding
+LOR003C	Amauroascus mutatus	0	2.08	Baoding
+LOR003C	Amauroascus niger	0	2.08	Baoding
+LOR003C	Chrysosporium queenslandicum	0	2.08	Baoding
+LOR003C	Clavaria fumosa	2.966786814	2.08	Baoding
+LOR003C	Malassezia furfur	0	2.08	Baoding
+LOR003C	Malassezia globosa	0	2.08	Baoding
+LOR003C	Malassezia restricta	86.51436122	2.08	Baoding
+LOR003C	Minor/Unclassified	1.621714537	2.08	Baoding
+LOR003C	Preussia sp. BSL10	0	2.08	Baoding
+LOR003C	Puccinia arachidis	0	2.08	Baoding
+LOR005C	Alternaria alternata	3.330628459	0.9	Baoding
+LOR005C	Alternaria arborescens	0	0.9	Baoding
+LOR005C	Amauroascus mutatus	0	0.9	Baoding
+LOR005C	Amauroascus niger	0	0.9	Baoding
+LOR005C	Chrysosporium queenslandicum	0	0.9	Baoding
+LOR005C	Clavaria fumosa	0	0.9	Baoding
+LOR005C	Malassezia furfur	0	0.9	Baoding
+LOR005C	Malassezia globosa	0	0.9	Baoding
+LOR005C	Malassezia restricta	95.12759335	0.9	Baoding
+LOR005C	Minor/Unclassified	1.541778192	0.9	Baoding
+LOR005C	Preussia sp. BSL10	0	0.9	Baoding
+LOR005C	Puccinia arachidis	0	0.9	Baoding
+LOR006C	Alternaria alternata	0	0.73	Baoding
+LOR006C	Alternaria arborescens	0	0.73	Baoding
+LOR006C	Amauroascus mutatus	0	0.73	Baoding
+LOR006C	Amauroascus niger	0	0.73	Baoding
+LOR006C	Chrysosporium queenslandicum	0	0.73	Baoding
+LOR006C	Clavaria fumosa	0	0.73	Baoding
+LOR006C	Malassezia furfur	0	0.73	Baoding
+LOR006C	Malassezia globosa	10.32184242	0.73	Baoding
+LOR006C	Malassezia restricta	89.67815758	0.73	Baoding
+LOR006C	Minor/Unclassified	0	0.73	Baoding
+LOR006C	Preussia sp. BSL10	0	0.73	Baoding
+LOR006C	Puccinia arachidis	0	0.73	Baoding
+LOR007C	Alternaria alternata	0	1.6	Baoding
+LOR007C	Alternaria arborescens	0	1.6	Baoding
+LOR007C	Amauroascus mutatus	0	1.6	Baoding
+LOR007C	Amauroascus niger	0	1.6	Baoding
+LOR007C	Chrysosporium queenslandicum	0	1.6	Baoding
+LOR007C	Clavaria fumosa	0	1.6	Baoding
+LOR007C	Malassezia furfur	0	1.6	Baoding
+LOR007C	Malassezia globosa	0	1.6	Baoding
+LOR007C	Malassezia restricta	100	1.6	Baoding
+LOR007C	Minor/Unclassified	0	1.6	Baoding
+LOR007C	Preussia sp. BSL10	0	1.6	Baoding
+LOR007C	Puccinia arachidis	0	1.6	Baoding
+LOR008C	Alternaria alternata	0	0.59	Baoding
+LOR008C	Alternaria arborescens	0	0.59	Baoding
+LOR008C	Amauroascus mutatus	0	0.59	Baoding
+LOR008C	Amauroascus niger	0	0.59	Baoding
+LOR008C	Chrysosporium queenslandicum	0	0.59	Baoding
+LOR008C	Clavaria fumosa	0	0.59	Baoding
+LOR008C	Malassezia furfur	0	0.59	Baoding
+LOR008C	Malassezia globosa	9.325771897	0.59	Baoding
+LOR008C	Malassezia restricta	90.6742281	0.59	Baoding
+LOR008C	Minor/Unclassified	0	0.59	Baoding
+LOR008C	Preussia sp. BSL10	0	0.59	Baoding
+LOR008C	Puccinia arachidis	0	0.59	Baoding
+LOR009C	Alternaria alternata	0	12.31	Baoding
+LOR009C	Alternaria arborescens	0	12.31	Baoding
+LOR009C	Amauroascus mutatus	0	12.31	Baoding
+LOR009C	Amauroascus niger	0	12.31	Baoding
+LOR009C	Chrysosporium queenslandicum	0	12.31	Baoding
+LOR009C	Clavaria fumosa	0	12.31	Baoding
+LOR009C	Malassezia furfur	0	12.31	Baoding
+LOR009C	Malassezia globosa	0	12.31	Baoding
+LOR009C	Malassezia restricta	99.85685702	12.31	Baoding
+LOR009C	Minor/Unclassified	0.038619606	12.31	Baoding
+LOR009C	Preussia sp. BSL10	0.104523371	12.31	Baoding
+LOR009C	Puccinia arachidis	0	12.31	Baoding
+LOR011C	Alternaria alternata	0	6.36	Baoding
+LOR011C	Alternaria arborescens	0.408898616	6.36	Baoding
+LOR011C	Amauroascus mutatus	0	6.36	Baoding
+LOR011C	Amauroascus niger	0	6.36	Baoding
+LOR011C	Chrysosporium queenslandicum	0	6.36	Baoding
+LOR011C	Clavaria fumosa	0	6.36	Baoding
+LOR011C	Malassezia furfur	0	6.36	Baoding
+LOR011C	Malassezia globosa	26.5359691	6.36	Baoding
+LOR011C	Malassezia restricta	72.51499068	6.36	Baoding
+LOR011C	Minor/Unclassified	0	6.36	Baoding
+LOR011C	Preussia sp. BSL10	0.540141606	6.36	Baoding
+LOR011C	Puccinia arachidis	0	6.36	Baoding
+LOR012C	Alternaria alternata	15.99564385	0.43	Baoding
+LOR012C	Alternaria arborescens	5.197676721	0.43	Baoding
+LOR012C	Amauroascus mutatus	0	0.43	Baoding
+LOR012C	Amauroascus niger	0	0.43	Baoding
+LOR012C	Chrysosporium queenslandicum	0	0.43	Baoding
+LOR012C	Clavaria fumosa	0	0.43	Baoding
+LOR012C	Malassezia furfur	0	0.43	Baoding
+LOR012C	Malassezia globosa	78.80667943	0.43	Baoding
+LOR012C	Malassezia restricta	0	0.43	Baoding
+LOR012C	Minor/Unclassified	0	0.43	Baoding
+LOR012C	Preussia sp. BSL10	0	0.43	Baoding
+LOR012C	Puccinia arachidis	0	0.43	Baoding
+LOR013C	Alternaria alternata	0	0.42	Baoding
+LOR013C	Alternaria arborescens	0	0.42	Baoding
+LOR013C	Amauroascus mutatus	0	0.42	Baoding
+LOR013C	Amauroascus niger	0	0.42	Baoding
+LOR013C	Chrysosporium queenslandicum	0	0.42	Baoding
+LOR013C	Clavaria fumosa	0	0.42	Baoding
+LOR013C	Malassezia furfur	0	0.42	Baoding
+LOR013C	Malassezia globosa	0	0.42	Baoding
+LOR013C	Malassezia restricta	100	0.42	Baoding
+LOR013C	Minor/Unclassified	0	0.42	Baoding
+LOR013C	Preussia sp. BSL10	0	0.42	Baoding
+LOR013C	Puccinia arachidis	0	0.42	Baoding
+LOR014C	Alternaria alternata	0.566010609	2.41	Baoding
+LOR014C	Alternaria arborescens	0	2.41	Baoding
+LOR014C	Amauroascus mutatus	0	2.41	Baoding
+LOR014C	Amauroascus niger	0	2.41	Baoding
+LOR014C	Chrysosporium queenslandicum	0	2.41	Baoding
+LOR014C	Clavaria fumosa	0	2.41	Baoding
+LOR014C	Malassezia furfur	0	2.41	Baoding
+LOR014C	Malassezia globosa	2.513752998	2.41	Baoding
+LOR014C	Malassezia restricta	96.92023639	2.41	Baoding
+LOR014C	Minor/Unclassified	0	2.41	Baoding
+LOR014C	Preussia sp. BSL10	0	2.41	Baoding
+LOR014C	Puccinia arachidis	0	2.41	Baoding
+LOR015C	Alternaria alternata	0	0	Baoding
+LOR015C	Alternaria arborescens	0	0	Baoding
+LOR015C	Amauroascus mutatus	0	0	Baoding
+LOR015C	Amauroascus niger	0	0	Baoding
+LOR015C	Chrysosporium queenslandicum	0	0	Baoding
+LOR015C	Clavaria fumosa	0	0	Baoding
+LOR015C	Malassezia furfur	0	0	Baoding
+LOR015C	Malassezia globosa	0	0	Baoding
+LOR015C	Malassezia restricta	0	0	Baoding
+LOR015C	Minor/Unclassified	0	0	Baoding
+LOR015C	Preussia sp. BSL10	0	0	Baoding
+LOR015C	Puccinia arachidis	0	0	Baoding
+LOR016C	Alternaria alternata	2.395593133	0.34	Baoding
+LOR016C	Alternaria arborescens	1.607737638	0.34	Baoding
+LOR016C	Amauroascus mutatus	0	0.34	Baoding
+LOR016C	Amauroascus niger	10.52182082	0.34	Baoding
+LOR016C	Chrysosporium queenslandicum	0	0.34	Baoding
+LOR016C	Clavaria fumosa	0	0.34	Baoding
+LOR016C	Malassezia furfur	0	0.34	Baoding
+LOR016C	Malassezia globosa	71.91903664	0.34	Baoding
+LOR016C	Malassezia restricta	0	0.34	Baoding
+LOR016C	Minor/Unclassified	1.33871381	0.34	Baoding
+LOR016C	Preussia sp. BSL10	3.441796908	0.34	Baoding
+LOR016C	Puccinia arachidis	8.77530105	0.34	Baoding
+LOR017C	Alternaria alternata	2.650431828	0.34	Baoding
+LOR017C	Alternaria arborescens	0	0.34	Baoding
+LOR017C	Amauroascus mutatus	0	0.34	Baoding
+LOR017C	Amauroascus niger	0	0.34	Baoding
+LOR017C	Chrysosporium queenslandicum	0	0.34	Baoding
+LOR017C	Clavaria fumosa	0	0.34	Baoding
+LOR017C	Malassezia furfur	0	0.34	Baoding
+LOR017C	Malassezia globosa	8.630893388	0.34	Baoding
+LOR017C	Malassezia restricta	81.01090188	0.34	Baoding
+LOR017C	Minor/Unclassified	0	0.34	Baoding
+LOR017C	Preussia sp. BSL10	0	0.34	Baoding
+LOR017C	Puccinia arachidis	7.707772901	0.34	Baoding
+LOR018C	Alternaria alternata	0.182664507	4.68	Baoding
+LOR018C	Alternaria arborescens	0.068114931	4.68	Baoding
+LOR018C	Amauroascus mutatus	3.875755776	4.68	Baoding
+LOR018C	Amauroascus niger	0	4.68	Baoding
+LOR018C	Chrysosporium queenslandicum	0	4.68	Baoding
+LOR018C	Clavaria fumosa	0	4.68	Baoding
+LOR018C	Malassezia furfur	0	4.68	Baoding
+LOR018C	Malassezia globosa	0	4.68	Baoding
+LOR018C	Malassezia restricta	94.11655258	4.68	Baoding
+LOR018C	Minor/Unclassified	0.016988285	4.68	Baoding
+LOR018C	Preussia sp. BSL10	0	4.68	Baoding
+LOR018C	Puccinia arachidis	1.739923925	4.68	Baoding
+LOR019C	Alternaria alternata	11.30835546	0.32	Baoding
+LOR019C	Alternaria arborescens	5.357349036	0.32	Baoding
+LOR019C	Amauroascus mutatus	4.003579263	0.32	Baoding
+LOR019C	Amauroascus niger	0	0.32	Baoding
+LOR019C	Chrysosporium queenslandicum	0	0.32	Baoding
+LOR019C	Clavaria fumosa	0	0.32	Baoding
+LOR019C	Malassezia furfur	0	0.32	Baoding
+LOR019C	Malassezia globosa	20.73374899	0.32	Baoding
+LOR019C	Malassezia restricta	56.64761575	0.32	Baoding
+LOR019C	Minor/Unclassified	1.949351499	0.32	Baoding
+LOR019C	Preussia sp. BSL10	0	0.32	Baoding
+LOR019C	Puccinia arachidis	0	0.32	Baoding
+LOR020C	Alternaria alternata	0.105664185	6.21	Baoding
+LOR020C	Alternaria arborescens	0	6.21	Baoding
+LOR020C	Amauroascus mutatus	1.021542331	6.21	Baoding
+LOR020C	Amauroascus niger	0	6.21	Baoding
+LOR020C	Chrysosporium queenslandicum	0	6.21	Baoding
+LOR020C	Clavaria fumosa	0	6.21	Baoding
+LOR020C	Malassezia furfur	0	6.21	Baoding
+LOR020C	Malassezia globosa	4.146740376	6.21	Baoding
+LOR020C	Malassezia restricta	92.08907966	6.21	Baoding
+LOR020C	Minor/Unclassified	0.402425766	6.21	Baoding
+LOR020C	Preussia sp. BSL10	1.065416734	6.21	Baoding
+LOR020C	Puccinia arachidis	1.169130946	6.21	Baoding
+LOR021C	Alternaria alternata	0.316601581	2.19	Baoding
+LOR021C	Alternaria arborescens	0.144775693	2.19	Baoding
+LOR021C	Amauroascus mutatus	0	2.19	Baoding
+LOR021C	Amauroascus niger	0	2.19	Baoding
+LOR021C	Chrysosporium queenslandicum	0	2.19	Baoding
+LOR021C	Clavaria fumosa	0	2.19	Baoding
+LOR021C	Malassezia furfur	0	2.19	Baoding
+LOR021C	Malassezia globosa	0	2.19	Baoding
+LOR021C	Malassezia restricta	99.03381274	2.19	Baoding
+LOR021C	Minor/Unclassified	0.254881417	2.19	Baoding
+LOR021C	Preussia sp. BSL10	0.249928565	2.19	Baoding
+LOR021C	Puccinia arachidis	0	2.19	Baoding
+LOR022C	Alternaria alternata	8.096681468	0.47	Baoding
+LOR022C	Alternaria arborescens	0	0.47	Baoding
+LOR022C	Amauroascus mutatus	0	0.47	Baoding
+LOR022C	Amauroascus niger	25.47227846	0.47	Baoding
+LOR022C	Chrysosporium queenslandicum	8.558613979	0.47	Baoding
+LOR022C	Clavaria fumosa	0	0.47	Baoding
+LOR022C	Malassezia furfur	6.75226772	0.47	Baoding
+LOR022C	Malassezia globosa	28.36466943	0.47	Baoding
+LOR022C	Malassezia restricta	0	0.47	Baoding
+LOR022C	Minor/Unclassified	13.72375765	0.47	Baoding
+LOR022C	Preussia sp. BSL10	9.031731296	0.47	Baoding
+LOR022C	Puccinia arachidis	0	0.47	Baoding
+LOR023C	Alternaria alternata	11.74934726	0.31	Baoding
+LOR023C	Alternaria arborescens	5.483028721	0.31	Baoding
+LOR023C	Amauroascus mutatus	0	0.31	Baoding
+LOR023C	Amauroascus niger	0	0.31	Baoding
+LOR023C	Chrysosporium queenslandicum	0	0.31	Baoding
+LOR023C	Clavaria fumosa	0	0.31	Baoding
+LOR023C	Malassezia furfur	28.72062663	0.31	Baoding
+LOR023C	Malassezia globosa	0	0.31	Baoding
+LOR023C	Malassezia restricta	0	0.31	Baoding
+LOR023C	Minor/Unclassified	54.04699739	0.31	Baoding
+LOR023C	Preussia sp. BSL10	0	0.31	Baoding
+LOR023C	Puccinia arachidis	0	0.31	Baoding
+LOR024C	Alternaria alternata	4.502476362	0.35	Baoding
+LOR024C	Alternaria arborescens	3.241782981	0.35	Baoding
+LOR024C	Amauroascus mutatus	0	0.35	Baoding
+LOR024C	Amauroascus niger	0	0.35	Baoding
+LOR024C	Chrysosporium queenslandicum	0	0.35	Baoding
+LOR024C	Clavaria fumosa	0	0.35	Baoding
+LOR024C	Malassezia furfur	0	0.35	Baoding
+LOR024C	Malassezia globosa	78.25303917	0.35	Baoding
+LOR024C	Malassezia restricta	0	0.35	Baoding
+LOR024C	Minor/Unclassified	2.836560108	0.35	Baoding
+LOR024C	Preussia sp. BSL10	11.16614138	0.35	Baoding
+LOR024C	Puccinia arachidis	0	0.35	Baoding
+LOR025C	Alternaria alternata	3.473552435	0.91	Baoding
+LOR025C	Alternaria arborescens	0	0.91	Baoding
+LOR025C	Amauroascus mutatus	0	0.91	Baoding
+LOR025C	Amauroascus niger	0	0.91	Baoding
+LOR025C	Chrysosporium queenslandicum	0	0.91	Baoding
+LOR025C	Clavaria fumosa	0	0.91	Baoding
+LOR025C	Malassezia furfur	0	0.91	Baoding
+LOR025C	Malassezia globosa	8.752507504	0.91	Baoding
+LOR025C	Malassezia restricta	76.33670684	0.91	Baoding
+LOR025C	Minor/Unclassified	7.849052051	0.91	Baoding
+LOR025C	Preussia sp. BSL10	0	0.91	Baoding
+LOR025C	Puccinia arachidis	3.588181174	0.91	Baoding
+LOR026C	Alternaria alternata	0	0.11	Baoding
+LOR026C	Alternaria arborescens	0	0.11	Baoding
+LOR026C	Amauroascus mutatus	0	0.11	Baoding
+LOR026C	Amauroascus niger	0	0.11	Baoding
+LOR026C	Chrysosporium queenslandicum	25.01566302	0.11	Baoding
+LOR026C	Clavaria fumosa	0	0.11	Baoding
+LOR026C	Malassezia furfur	0	0.11	Baoding
+LOR026C	Malassezia globosa	0	0.11	Baoding
+LOR026C	Malassezia restricta	74.53994434	0.11	Baoding
+LOR026C	Minor/Unclassified	0.444392639	0.11	Baoding
+LOR026C	Preussia sp. BSL10	0	0.11	Baoding
+LOR026C	Puccinia arachidis	0	0.11	Baoding
+LOR027C	Alternaria alternata	0	0.24	Baoding
+LOR027C	Alternaria arborescens	0	0.24	Baoding
+LOR027C	Amauroascus mutatus	0	0.24	Baoding
+LOR027C	Amauroascus niger	0	0.24	Baoding
+LOR027C	Chrysosporium queenslandicum	0	0.24	Baoding
+LOR027C	Clavaria fumosa	0	0.24	Baoding
+LOR027C	Malassezia furfur	0	0.24	Baoding
+LOR027C	Malassezia globosa	25.12491672	0.24	Baoding
+LOR027C	Malassezia restricta	56.68720853	0.24	Baoding
+LOR027C	Minor/Unclassified	0	0.24	Baoding
+LOR027C	Preussia sp. BSL10	11.55896069	0.24	Baoding
+LOR027C	Puccinia arachidis	6.628914057	0.24	Baoding
+LOR028C	Alternaria alternata	0	0.08	Baoding
+LOR028C	Alternaria arborescens	0	0.08	Baoding
+LOR028C	Amauroascus mutatus	0	0.08	Baoding
+LOR028C	Amauroascus niger	0	0.08	Baoding
+LOR028C	Chrysosporium queenslandicum	26.30322436	0.08	Baoding
+LOR028C	Clavaria fumosa	0	0.08	Baoding
+LOR028C	Malassezia furfur	0	0.08	Baoding
+LOR028C	Malassezia globosa	0	0.08	Baoding
+LOR028C	Malassezia restricta	73.69677564	0.08	Baoding
+LOR028C	Minor/Unclassified	0	0.08	Baoding
+LOR028C	Preussia sp. BSL10	0	0.08	Baoding
+LOR028C	Puccinia arachidis	0	0.08	Baoding
+LOR029C	Alternaria alternata	0.35072532	3.03	Baoding
+LOR029C	Alternaria arborescens	0	3.03	Baoding
+LOR029C	Amauroascus mutatus	0.430290956	3.03	Baoding
+LOR029C	Amauroascus niger	0	3.03	Baoding
+LOR029C	Chrysosporium queenslandicum	0	3.03	Baoding
+LOR029C	Clavaria fumosa	0	3.03	Baoding
+LOR029C	Malassezia furfur	0.878086351	3.03	Baoding
+LOR029C	Malassezia globosa	5.733817941	3.03	Baoding
+LOR029C	Malassezia restricta	85.3344621	3.03	Baoding
+LOR029C	Minor/Unclassified	7.272617327	3.03	Baoding
+LOR029C	Preussia sp. BSL10	0	3.03	Baoding
+LOR029C	Puccinia arachidis	0	3.03	Baoding
+LOR030C	Alternaria alternata	0.823340253	0.85	Baoding
+LOR030C	Alternaria arborescens	0.359402456	0.85	Baoding
+LOR030C	Amauroascus mutatus	0	0.85	Baoding
+LOR030C	Amauroascus niger	0	0.85	Baoding
+LOR030C	Chrysosporium queenslandicum	0	0.85	Baoding
+LOR030C	Clavaria fumosa	0	0.85	Baoding
+LOR030C	Malassezia furfur	0.176714504	0.85	Baoding
+LOR030C	Malassezia globosa	0	0.85	Baoding
+LOR030C	Malassezia restricta	97.05658349	0.85	Baoding
+LOR030C	Minor/Unclassified	0.360895819	0.85	Baoding
+LOR030C	Preussia sp. BSL10	1.223063483	0.85	Baoding
+LOR030C	Puccinia arachidis	0	0.85	Baoding
+LOR033C	Alternaria alternata	12.55351458	1.08	Baoding
+LOR033C	Alternaria arborescens	5.530905156	1.08	Baoding
+LOR033C	Amauroascus mutatus	0	1.08	Baoding
+LOR033C	Amauroascus niger	4.457651376	1.08	Baoding
+LOR033C	Chrysosporium queenslandicum	1.198290028	1.08	Baoding
+LOR033C	Clavaria fumosa	0	1.08	Baoding
+LOR033C	Malassezia furfur	0	1.08	Baoding
+LOR033C	Malassezia globosa	5.384353943	1.08	Baoding
+LOR033C	Malassezia restricta	53.77743548	1.08	Baoding
+LOR033C	Minor/Unclassified	7.573267812	1.08	Baoding
+LOR033C	Preussia sp. BSL10	7.176644102	1.08	Baoding
+LOR033C	Puccinia arachidis	2.347937526	1.08	Baoding
+LOR034C	Alternaria alternata	0	0.07	Baoding
+LOR034C	Alternaria arborescens	0	0.07	Baoding
+LOR034C	Amauroascus mutatus	0	0.07	Baoding
+LOR034C	Amauroascus niger	0	0.07	Baoding
+LOR034C	Chrysosporium queenslandicum	17.05659645	0.07	Baoding
+LOR034C	Clavaria fumosa	0	0.07	Baoding
+LOR034C	Malassezia furfur	0	0.07	Baoding
+LOR034C	Malassezia globosa	41.93444002	0.07	Baoding
+LOR034C	Malassezia restricta	0	0.07	Baoding
+LOR034C	Minor/Unclassified	33.58573602	0.07	Baoding
+LOR034C	Preussia sp. BSL10	7.423227518	0.07	Baoding
+LOR034C	Puccinia arachidis	0	0.07	Baoding
+LOR036C	Alternaria alternata	0	0.43	Baoding
+LOR036C	Alternaria arborescens	0	0.43	Baoding
+LOR036C	Amauroascus mutatus	0	0.43	Baoding
+LOR036C	Amauroascus niger	0	0.43	Baoding
+LOR036C	Chrysosporium queenslandicum	2.263085259	0.43	Baoding
+LOR036C	Clavaria fumosa	0	0.43	Baoding
+LOR036C	Malassezia furfur	0	0.43	Baoding
+LOR036C	Malassezia globosa	6.103046412	0.43	Baoding
+LOR036C	Malassezia restricta	74.7099264	0.43	Baoding
+LOR036C	Minor/Unclassified	8.603813126	0.43	Baoding
+LOR036C	Preussia sp. BSL10	8.320128808	0.43	Baoding
+LOR036C	Puccinia arachidis	0	0.43	Baoding
+LOR037C	Alternaria alternata	0	0.35	Baoding
+LOR037C	Alternaria arborescens	0	0.35	Baoding
+LOR037C	Amauroascus mutatus	0	0.35	Baoding
+LOR037C	Amauroascus niger	0	0.35	Baoding
+LOR037C	Chrysosporium queenslandicum	0	0.35	Baoding
+LOR037C	Clavaria fumosa	0	0.35	Baoding
+LOR037C	Malassezia furfur	0	0.35	Baoding
+LOR037C	Malassezia globosa	14.42305334	0.35	Baoding
+LOR037C	Malassezia restricta	83.1122011	0.35	Baoding
+LOR037C	Minor/Unclassified	2.464745555	0.35	Baoding
+LOR037C	Preussia sp. BSL10	0	0.35	Baoding
+LOR037C	Puccinia arachidis	0	0.35	Baoding
+LOR042C	Alternaria alternata	5.467497774	0.18	Baoding
+LOR042C	Alternaria arborescens	2.564559216	0.18	Baoding
+LOR042C	Amauroascus mutatus	0	0.18	Baoding
+LOR042C	Amauroascus niger	6.304541407	0.18	Baoding
+LOR042C	Chrysosporium queenslandicum	1.816562778	0.18	Baoding
+LOR042C	Clavaria fumosa	0	0.18	Baoding
+LOR042C	Malassezia furfur	0	0.18	Baoding
+LOR042C	Malassezia globosa	8.156723063	0.18	Baoding
+LOR042C	Malassezia restricta	71.30899377	0.18	Baoding
+LOR042C	Minor/Unclassified	0	0.18	Baoding
+LOR042C	Preussia sp. BSL10	4.381121995	0.18	Baoding
+LOR042C	Puccinia arachidis	0	0.18	Baoding
+LOR046C	Alternaria alternata	2.665375599	0.96	Baoding
+LOR046C	Alternaria arborescens	1.22311691	0.96	Baoding
+LOR046C	Amauroascus mutatus	0	0.96	Baoding
+LOR046C	Amauroascus niger	0	0.96	Baoding
+LOR046C	Chrysosporium queenslandicum	0	0.96	Baoding
+LOR046C	Clavaria fumosa	0	0.96	Baoding
+LOR046C	Malassezia furfur	0	0.96	Baoding
+LOR046C	Malassezia globosa	2.983895627	0.96	Baoding
+LOR046C	Malassezia restricta	89.58821731	0.96	Baoding
+LOR046C	Minor/Unclassified	2.639893995	0.96	Baoding
+LOR046C	Preussia sp. BSL10	0.899500561	0.96	Baoding
+LOR046C	Puccinia arachidis	0	0.96	Baoding
+LOR051C	Alternaria alternata	0	0.24	Baoding
+LOR051C	Alternaria arborescens	0	0.24	Baoding
+LOR051C	Amauroascus mutatus	0	0.24	Baoding
+LOR051C	Amauroascus niger	0	0.24	Baoding
+LOR051C	Chrysosporium queenslandicum	0	0.24	Baoding
+LOR051C	Clavaria fumosa	0	0.24	Baoding
+LOR051C	Malassezia furfur	0	0.24	Baoding
+LOR051C	Malassezia globosa	11.08378711	0.24	Baoding
+LOR051C	Malassezia restricta	83.46741613	0.24	Baoding
+LOR051C	Minor/Unclassified	3.456876867	0.24	Baoding
+LOR051C	Preussia sp. BSL10	1.991919902	0.24	Baoding
+LOR051C	Puccinia arachidis	0	0.24	Baoding
+LOR054C	Alternaria alternata	13.99952987	0.2	Baoding
+LOR054C	Alternaria arborescens	5.834878679	0.2	Baoding
+LOR054C	Amauroascus mutatus	0	0.2	Baoding
+LOR054C	Amauroascus niger	0	0.2	Baoding
+LOR054C	Chrysosporium queenslandicum	5.69383864	0.2	Baoding
+LOR054C	Clavaria fumosa	0	0.2	Baoding
+LOR054C	Malassezia furfur	0	0.2	Baoding
+LOR054C	Malassezia globosa	0	0.2	Baoding
+LOR054C	Malassezia restricta	66.76156398	0.2	Baoding
+LOR054C	Minor/Unclassified	7.710188836	0.2	Baoding
+LOR054C	Preussia sp. BSL10	0	0.2	Baoding
+LOR054C	Puccinia arachidis	0	0.2	Baoding
+LOR055C	Alternaria alternata	0.630045285	0.45	Baoding
+LOR055C	Alternaria arborescens	0	0.45	Baoding
+LOR055C	Amauroascus mutatus	0	0.45	Baoding
+LOR055C	Amauroascus niger	0	0.45	Baoding
+LOR055C	Chrysosporium queenslandicum	0	0.45	Baoding
+LOR055C	Clavaria fumosa	0	0.45	Baoding
+LOR055C	Malassezia furfur	0	0.45	Baoding
+LOR055C	Malassezia globosa	0	0.45	Baoding
+LOR055C	Malassezia restricta	95.06641223	0.45	Baoding
+LOR055C	Minor/Unclassified	2.965453526	0.45	Baoding
+LOR055C	Preussia sp. BSL10	1.338088964	0.45	Baoding
+LOR055C	Puccinia arachidis	0	0.45	Baoding
+LOR058C	Alternaria alternata	2.181478017	0.53	Baoding
+LOR058C	Alternaria arborescens	1.030869972	0.53	Baoding
+LOR058C	Amauroascus mutatus	12.59681946	0.53	Baoding
+LOR058C	Amauroascus niger	0	0.53	Baoding
+LOR058C	Chrysosporium queenslandicum	5.700654818	0.53	Baoding
+LOR058C	Clavaria fumosa	0	0.53	Baoding
+LOR058C	Malassezia furfur	0	0.53	Baoding
+LOR058C	Malassezia globosa	3.294667914	0.53	Baoding
+LOR058C	Malassezia restricta	73.24415341	0.53	Baoding
+LOR058C	Minor/Unclassified	1.951356408	0.53	Baoding
+LOR058C	Preussia sp. BSL10	0	0.53	Baoding
+LOR058C	Puccinia arachidis	0	0.53	Baoding
+LOR060C	Alternaria alternata	0	2.04	Baoding
+LOR060C	Alternaria arborescens	0	2.04	Baoding
+LOR060C	Amauroascus mutatus	0	2.04	Baoding
+LOR060C	Amauroascus niger	0	2.04	Baoding
+LOR060C	Chrysosporium queenslandicum	0	2.04	Baoding
+LOR060C	Clavaria fumosa	0	2.04	Baoding
+LOR060C	Malassezia furfur	0.142894098	2.04	Baoding
+LOR060C	Malassezia globosa	5.891917861	2.04	Baoding
+LOR060C	Malassezia restricta	90.51909977	2.04	Baoding
+LOR060C	Minor/Unclassified	0.78160608	2.04	Baoding
+LOR060C	Preussia sp. BSL10	1.064314663	2.04	Baoding
+LOR060C	Puccinia arachidis	1.600167531	2.04	Baoding
+LOR061C	Alternaria alternata	1.724984988	1.44	Baoding
+LOR061C	Alternaria arborescens	0	1.44	Baoding
+LOR061C	Amauroascus mutatus	0	1.44	Baoding
+LOR061C	Amauroascus niger	3.252672869	1.44	Baoding
+LOR061C	Chrysosporium queenslandicum	0	1.44	Baoding
+LOR061C	Clavaria fumosa	0	1.44	Baoding
+LOR061C	Malassezia furfur	0	1.44	Baoding
+LOR061C	Malassezia globosa	0	1.44	Baoding
+LOR061C	Malassezia restricta	87.5312907	1.44	Baoding
+LOR061C	Minor/Unclassified	5.444776306	1.44	Baoding
+LOR061C	Preussia sp. BSL10	2.04627514	1.44	Baoding
+LOR061C	Puccinia arachidis	0	1.44	Baoding
+LOR062C	Alternaria alternata	0	0.27	Baoding
+LOR062C	Alternaria arborescens	0	0.27	Baoding
+LOR062C	Amauroascus mutatus	9.127884574	0.27	Baoding
+LOR062C	Amauroascus niger	0	0.27	Baoding
+LOR062C	Chrysosporium queenslandicum	0	0.27	Baoding
+LOR062C	Clavaria fumosa	0	0.27	Baoding
+LOR062C	Malassezia furfur	0	0.27	Baoding
+LOR062C	Malassezia globosa	78.56745301	0.27	Baoding
+LOR062C	Malassezia restricta	0	0.27	Baoding
+LOR062C	Minor/Unclassified	0	0.27	Baoding
+LOR062C	Preussia sp. BSL10	12.30466241	0.27	Baoding
+LOR062C	Puccinia arachidis	0	0.27	Baoding
+LOR063C	Alternaria alternata	0	0.21	Baoding
+LOR063C	Alternaria arborescens	11.41763383	0.21	Baoding
+LOR063C	Amauroascus mutatus	0	0.21	Baoding
+LOR063C	Amauroascus niger	0	0.21	Baoding
+LOR063C	Chrysosporium queenslandicum	0	0.21	Baoding
+LOR063C	Clavaria fumosa	0	0.21	Baoding
+LOR063C	Malassezia furfur	2.424500213	0.21	Baoding
+LOR063C	Malassezia globosa	76.93382755	0.21	Baoding
+LOR063C	Malassezia restricta	0	0.21	Baoding
+LOR063C	Minor/Unclassified	9.224038403	0.21	Baoding
+LOR063C	Preussia sp. BSL10	0	0.21	Baoding
+LOR063C	Puccinia arachidis	0	0.21	Baoding
+LOR065C	Alternaria alternata	3.587657191	2.06	Baoding
+LOR065C	Alternaria arborescens	1.337746054	2.06	Baoding
+LOR065C	Amauroascus mutatus	0	2.06	Baoding
+LOR065C	Amauroascus niger	1.698481166	2.06	Baoding
+LOR065C	Chrysosporium queenslandicum	0	2.06	Baoding
+LOR065C	Clavaria fumosa	0	2.06	Baoding
+LOR065C	Malassezia furfur	0	2.06	Baoding
+LOR065C	Malassezia globosa	7.277146398	2.06	Baoding
+LOR065C	Malassezia restricta	82.77549883	2.06	Baoding
+LOR065C	Minor/Unclassified	1.774855178	2.06	Baoding
+LOR065C	Preussia sp. BSL10	1.548615181	2.06	Baoding
+LOR065C	Puccinia arachidis	0	2.06	Baoding
+LOR070C	Alternaria alternata	0	25.11	Baoding
+LOR070C	Alternaria arborescens	0.009684928	25.11	Baoding
+LOR070C	Amauroascus mutatus	0	25.11	Baoding
+LOR070C	Amauroascus niger	0.154008835	25.11	Baoding
+LOR070C	Chrysosporium queenslandicum	0	25.11	Baoding
+LOR070C	Clavaria fumosa	0	25.11	Baoding
+LOR070C	Malassezia furfur	0	25.11	Baoding
+LOR070C	Malassezia globosa	0	25.11	Baoding
+LOR070C	Malassezia restricta	99.7911143	25.11	Baoding
+LOR070C	Minor/Unclassified	0.045191934	25.11	Baoding
+LOR070C	Preussia sp. BSL10	0	25.11	Baoding
+LOR070C	Puccinia arachidis	0	25.11	Baoding
+LOR072C	Alternaria alternata	36.77584943	0.07	Baoding
+LOR072C	Alternaria arborescens	19.6040088	0.07	Baoding
+LOR072C	Amauroascus mutatus	0	0.07	Baoding
+LOR072C	Amauroascus niger	0	0.07	Baoding
+LOR072C	Chrysosporium queenslandicum	14.47078954	0.07	Baoding
+LOR072C	Clavaria fumosa	0	0.07	Baoding
+LOR072C	Malassezia furfur	0	0.07	Baoding
+LOR072C	Malassezia globosa	0	0.07	Baoding
+LOR072C	Malassezia restricta	0	0.07	Baoding
+LOR072C	Minor/Unclassified	0	0.07	Baoding
+LOR072C	Preussia sp. BSL10	29.14935224	0.07	Baoding
+LOR072C	Puccinia arachidis	0	0.07	Baoding
+LOR074C	Alternaria alternata	6.082758152	0.28	Baoding
+LOR074C	Alternaria arborescens	2.832273639	0.28	Baoding
+LOR074C	Amauroascus mutatus	0	0.28	Baoding
+LOR074C	Amauroascus niger	0	0.28	Baoding
+LOR074C	Chrysosporium queenslandicum	8.490020741	0.28	Baoding
+LOR074C	Clavaria fumosa	0	0.28	Baoding
+LOR074C	Malassezia furfur	0	0.28	Baoding
+LOR074C	Malassezia globosa	0	0.28	Baoding
+LOR074C	Malassezia restricta	0	0.28	Baoding
+LOR074C	Minor/Unclassified	8.037808983	0.28	Baoding
+LOR074C	Preussia sp. BSL10	15.46700214	0.28	Baoding
+LOR074C	Puccinia arachidis	59.09013634	0.28	Baoding
+LOR076C	Alternaria alternata	0.428757466	4.69	Baoding
+LOR076C	Alternaria arborescens	0.206509295	4.69	Baoding
+LOR076C	Amauroascus mutatus	1.008811232	4.69	Baoding
+LOR076C	Amauroascus niger	1.513089922	4.69	Baoding
+LOR076C	Chrysosporium queenslandicum	0	4.69	Baoding
+LOR076C	Clavaria fumosa	0	4.69	Baoding
+LOR076C	Malassezia furfur	0	4.69	Baoding
+LOR076C	Malassezia globosa	0	4.69	Baoding
+LOR076C	Malassezia restricta	92.62202072	4.69	Baoding
+LOR076C	Minor/Unclassified	2.943043035	4.69	Baoding
+LOR076C	Preussia sp. BSL10	1.277768329	4.69	Baoding
+LOR076C	Puccinia arachidis	0	4.69	Baoding
+LOR078C	Alternaria alternata	0	0.11	Baoding
+LOR078C	Alternaria arborescens	0	0.11	Baoding
+LOR078C	Amauroascus mutatus	0	0.11	Baoding
+LOR078C	Amauroascus niger	0	0.11	Baoding
+LOR078C	Chrysosporium queenslandicum	0	0.11	Baoding
+LOR078C	Clavaria fumosa	75.83017437	0.11	Baoding
+LOR078C	Malassezia furfur	0	0.11	Baoding
+LOR078C	Malassezia globosa	24.16982563	0.11	Baoding
+LOR078C	Malassezia restricta	0	0.11	Baoding
+LOR078C	Minor/Unclassified	0	0.11	Baoding
+LOR078C	Preussia sp. BSL10	0	0.11	Baoding
+LOR078C	Puccinia arachidis	0	0.11	Baoding
+LOR081C	Alternaria alternata	0	2.73	Baoding
+LOR081C	Alternaria arborescens	0	2.73	Baoding
+LOR081C	Amauroascus mutatus	0	2.73	Baoding
+LOR081C	Amauroascus niger	4.003643838	2.73	Baoding
+LOR081C	Chrysosporium queenslandicum	1.070262896	2.73	Baoding
+LOR081C	Clavaria fumosa	0	2.73	Baoding
+LOR081C	Malassezia furfur	0	2.73	Baoding
+LOR081C	Malassezia globosa	36.07422259	2.73	Baoding
+LOR081C	Malassezia restricta	56.23297673	2.73	Baoding
+LOR081C	Minor/Unclassified	0	2.73	Baoding
+LOR081C	Preussia sp. BSL10	0	2.73	Baoding
+LOR081C	Puccinia arachidis	2.61889394	2.73	Baoding
+LOR082C	Alternaria alternata	0	5	Baoding
+LOR082C	Alternaria arborescens	1.06981982	5	Baoding
+LOR082C	Amauroascus mutatus	0.630373859	5	Baoding
+LOR082C	Amauroascus niger	0	5	Baoding
+LOR082C	Chrysosporium queenslandicum	0	5	Baoding
+LOR082C	Clavaria fumosa	0	5	Baoding
+LOR082C	Malassezia furfur	0	5	Baoding
+LOR082C	Malassezia globosa	0	5	Baoding
+LOR082C	Malassezia restricta	93.93689292	5	Baoding
+LOR082C	Minor/Unclassified	2.597793234	5	Baoding
+LOR082C	Preussia sp. BSL10	1.765120169	5	Baoding
+LOR082C	Puccinia arachidis	0	5	Baoding
+LOR083C	Alternaria alternata	0	5.89	Baoding
+LOR083C	Alternaria arborescens	0.612295821	5.89	Baoding
+LOR083C	Amauroascus mutatus	0	5.89	Baoding
+LOR083C	Amauroascus niger	0	5.89	Baoding
+LOR083C	Chrysosporium queenslandicum	0	5.89	Baoding
+LOR083C	Clavaria fumosa	0	5.89	Baoding
+LOR083C	Malassezia furfur	0	5.89	Baoding
+LOR083C	Malassezia globosa	8.891405465	5.89	Baoding
+LOR083C	Malassezia restricta	87.41082682	5.89	Baoding
+LOR083C	Minor/Unclassified	1.443085921	5.89	Baoding
+LOR083C	Preussia sp. BSL10	1.64238597	5.89	Baoding
+LOR083C	Puccinia arachidis	0	5.89	Baoding
+LOR084C	Alternaria alternata	2.200631183	1.18	Baoding
+LOR084C	Alternaria arborescens	0.982943867	1.18	Baoding
+LOR084C	Amauroascus mutatus	0	1.18	Baoding
+LOR084C	Amauroascus niger	0	1.18	Baoding
+LOR084C	Chrysosporium queenslandicum	2.310556363	1.18	Baoding
+LOR084C	Clavaria fumosa	0	1.18	Baoding
+LOR084C	Malassezia furfur	0	1.18	Baoding
+LOR084C	Malassezia globosa	26.57565335	1.18	Baoding
+LOR084C	Malassezia restricta	55.56469629	1.18	Baoding
+LOR084C	Minor/Unclassified	4.873586043	1.18	Baoding
+LOR084C	Preussia sp. BSL10	2.604872168	1.18	Baoding
+LOR084C	Puccinia arachidis	4.887060743	1.18	Baoding
+LOR085C	Alternaria alternata	0	2.84	Baoding
+LOR085C	Alternaria arborescens	0.480432932	2.84	Baoding
+LOR085C	Amauroascus mutatus	0	2.84	Baoding
+LOR085C	Amauroascus niger	1.396834348	2.84	Baoding
+LOR085C	Chrysosporium queenslandicum	0	2.84	Baoding
+LOR085C	Clavaria fumosa	3.218521069	2.84	Baoding
+LOR085C	Malassezia furfur	0	2.84	Baoding
+LOR085C	Malassezia globosa	58.94982567	2.84	Baoding
+LOR085C	Malassezia restricta	34.69609635	2.84	Baoding
+LOR085C	Minor/Unclassified	0	2.84	Baoding
+LOR085C	Preussia sp. BSL10	1.258289637	2.84	Baoding
+LOR085C	Puccinia arachidis	0	2.84	Baoding
+LOR086C	Alternaria alternata	8.303469278	3.96	Baoding
+LOR086C	Alternaria arborescens	3.391463086	3.96	Baoding
+LOR086C	Amauroascus mutatus	0.639343159	3.96	Baoding
+LOR086C	Amauroascus niger	0	3.96	Baoding
+LOR086C	Chrysosporium queenslandicum	0	3.96	Baoding
+LOR086C	Clavaria fumosa	0	3.96	Baoding
+LOR086C	Malassezia furfur	0	3.96	Baoding
+LOR086C	Malassezia globosa	0	3.96	Baoding
+LOR086C	Malassezia restricta	83.02165354	3.96	Baoding
+LOR086C	Minor/Unclassified	3.67201696	3.96	Baoding
+LOR086C	Preussia sp. BSL10	0.972053974	3.96	Baoding
+LOR086C	Puccinia arachidis	0	3.96	Baoding
+LOR090C	Alternaria alternata	0	4.23	Baoding
+LOR090C	Alternaria arborescens	2.429233625	4.23	Baoding
+LOR090C	Amauroascus mutatus	0	4.23	Baoding
+LOR090C	Amauroascus niger	0	4.23	Baoding
+LOR090C	Chrysosporium queenslandicum	0.725232368	4.23	Baoding
+LOR090C	Clavaria fumosa	0	4.23	Baoding
+LOR090C	Malassezia furfur	0	4.23	Baoding
+LOR090C	Malassezia globosa	49.99146422	4.23	Baoding
+LOR090C	Malassezia restricta	43.26774156	4.23	Baoding
+LOR090C	Minor/Unclassified	1.113558719	4.23	Baoding
+LOR090C	Preussia sp. BSL10	0	4.23	Baoding
+LOR090C	Puccinia arachidis	2.472769506	4.23	Baoding
+LOR091C	Alternaria alternata	1.427655128	1.14	Baoding
+LOR091C	Alternaria arborescens	0.634685812	1.14	Baoding
+LOR091C	Amauroascus mutatus	0	1.14	Baoding
+LOR091C	Amauroascus niger	5.408019698	1.14	Baoding
+LOR091C	Chrysosporium queenslandicum	0	1.14	Baoding
+LOR091C	Clavaria fumosa	0	1.14	Baoding
+LOR091C	Malassezia furfur	0	1.14	Baoding
+LOR091C	Malassezia globosa	5.547164346	1.14	Baoding
+LOR091C	Malassezia restricta	73.80304566	1.14	Baoding
+LOR091C	Minor/Unclassified	9.61598146	1.14	Baoding
+LOR091C	Preussia sp. BSL10	3.563447891	1.14	Baoding
+LOR091C	Puccinia arachidis	0	1.14	Baoding
+LOR098C	Alternaria alternata	0.746256399	1.99	Baoding
+LOR098C	Alternaria arborescens	0	1.99	Baoding
+LOR098C	Amauroascus mutatus	0	1.99	Baoding
+LOR098C	Amauroascus niger	0	1.99	Baoding
+LOR098C	Chrysosporium queenslandicum	0	1.99	Baoding
+LOR098C	Clavaria fumosa	0	1.99	Baoding
+LOR098C	Malassezia furfur	0	1.99	Baoding
+LOR098C	Malassezia globosa	6.805004243	1.99	Baoding
+LOR098C	Malassezia restricta	87.77573982	1.99	Baoding
+LOR098C	Minor/Unclassified	3.789865586	1.99	Baoding
+LOR098C	Preussia sp. BSL10	0.883133948	1.99	Baoding
+LOR098C	Puccinia arachidis	0	1.99	Baoding
+LOR099C	Alternaria alternata	0	2.78	Baoding
+LOR099C	Alternaria arborescens	0.910575695	2.78	Baoding
+LOR099C	Amauroascus mutatus	0	2.78	Baoding
+LOR099C	Amauroascus niger	0	2.78	Baoding
+LOR099C	Chrysosporium queenslandicum	0.605106101	2.78	Baoding
+LOR099C	Clavaria fumosa	0	2.78	Baoding
+LOR099C	Malassezia furfur	0.155037332	2.78	Baoding
+LOR099C	Malassezia globosa	0	2.78	Baoding
+LOR099C	Malassezia restricta	96.83079134	2.78	Baoding
+LOR099C	Minor/Unclassified	0.82246537	2.78	Baoding
+LOR099C	Preussia sp. BSL10	0.676024167	2.78	Baoding
+LOR099C	Puccinia arachidis	0	2.78	Baoding
+LOR101C	Alternaria alternata	5.68640905	0.74	Baoding
+LOR101C	Alternaria arborescens	2.42461941	0.74	Baoding
+LOR101C	Amauroascus mutatus	0	0.74	Baoding
+LOR101C	Amauroascus niger	0	0.74	Baoding
+LOR101C	Chrysosporium queenslandicum	0.454335586	0.74	Baoding
+LOR101C	Clavaria fumosa	0	0.74	Baoding
+LOR101C	Malassezia furfur	0	0.74	Baoding
+LOR101C	Malassezia globosa	10.34647497	0.74	Baoding
+LOR101C	Malassezia restricta	77.81066037	0.74	Baoding
+LOR101C	Minor/Unclassified	0.879493658	0.74	Baoding
+LOR101C	Preussia sp. BSL10	2.398006951	0.74	Baoding
+LOR101C	Puccinia arachidis	0	0.74	Baoding
+LOR102C	Alternaria alternata	0.829112565	7.37	Baoding
+LOR102C	Alternaria arborescens	0.370207419	7.37	Baoding
+LOR102C	Amauroascus mutatus	0	7.37	Baoding
+LOR102C	Amauroascus niger	0	7.37	Baoding
+LOR102C	Chrysosporium queenslandicum	0	7.37	Baoding
+LOR102C	Clavaria fumosa	0	7.37	Baoding
+LOR102C	Malassezia furfur	0	7.37	Baoding
+LOR102C	Malassezia globosa	0	7.37	Baoding
+LOR102C	Malassezia restricta	97.65183326	7.37	Baoding
+LOR102C	Minor/Unclassified	0.937872874	7.37	Baoding
+LOR102C	Preussia sp. BSL10	0.21097388	7.37	Baoding
+LOR102C	Puccinia arachidis	0	7.37	Baoding
+LOR103C	Alternaria alternata	5.786375105	0.21	Baoding
+LOR103C	Alternaria arborescens	0	0.21	Baoding
+LOR103C	Amauroascus mutatus	0	0.21	Baoding
+LOR103C	Amauroascus niger	0	0.21	Baoding
+LOR103C	Chrysosporium queenslandicum	0	0.21	Baoding
+LOR103C	Clavaria fumosa	0	0.21	Baoding
+LOR103C	Malassezia furfur	0	0.21	Baoding
+LOR103C	Malassezia globosa	49.4594388	0.21	Baoding
+LOR103C	Malassezia restricta	0	0.21	Baoding
+LOR103C	Minor/Unclassified	28.85541708	0.21	Baoding
+LOR103C	Preussia sp. BSL10	15.89876902	0.21	Baoding
+LOR103C	Puccinia arachidis	0	0.21	Baoding
+LOR202C	Alternaria alternata	0.605272999	1.76	Dalian
+LOR202C	Alternaria arborescens	0.293245207	1.76	Dalian
+LOR202C	Amauroascus mutatus	1.39989475	1.76	Dalian
+LOR202C	Amauroascus niger	0	1.76	Dalian
+LOR202C	Chrysosporium queenslandicum	0.498161507	1.76	Dalian
+LOR202C	Clavaria fumosa	0	1.76	Dalian
+LOR202C	Malassezia furfur	0.111341804	1.76	Dalian
+LOR202C	Malassezia globosa	0	1.76	Dalian
+LOR202C	Malassezia restricta	92.13331235	1.76	Dalian
+LOR202C	Minor/Unclassified	4.958771383	1.76	Dalian
+LOR202C	Preussia sp. BSL10	0	1.76	Dalian
+LOR202C	Puccinia arachidis	0	1.76	Dalian
+LOR203C	Alternaria alternata	0	0.33	Dalian
+LOR203C	Alternaria arborescens	4.361633134	0.33	Dalian
+LOR203C	Amauroascus mutatus	0	0.33	Dalian
+LOR203C	Amauroascus niger	0	0.33	Dalian
+LOR203C	Chrysosporium queenslandicum	0	0.33	Dalian
+LOR203C	Clavaria fumosa	0	0.33	Dalian
+LOR203C	Malassezia furfur	0	0.33	Dalian
+LOR203C	Malassezia globosa	10.42363974	0.33	Dalian
+LOR203C	Malassezia restricta	80.92093002	0.33	Dalian
+LOR203C	Minor/Unclassified	0.954177134	0.33	Dalian
+LOR203C	Preussia sp. BSL10	3.339619969	0.33	Dalian
+LOR203C	Puccinia arachidis	0	0.33	Dalian
+LOR204C	Alternaria alternata	0	2.66	Dalian
+LOR204C	Alternaria arborescens	0	2.66	Dalian
+LOR204C	Amauroascus mutatus	0	2.66	Dalian
+LOR204C	Amauroascus niger	0	2.66	Dalian
+LOR204C	Chrysosporium queenslandicum	0	2.66	Dalian
+LOR204C	Clavaria fumosa	0	2.66	Dalian
+LOR204C	Malassezia furfur	0	2.66	Dalian
+LOR204C	Malassezia globosa	10.20853625	2.66	Dalian
+LOR204C	Malassezia restricta	86.60522964	2.66	Dalian
+LOR204C	Minor/Unclassified	3.18623411	2.66	Dalian
+LOR204C	Preussia sp. BSL10	0	2.66	Dalian
+LOR204C	Puccinia arachidis	0	2.66	Dalian
+LOR206C	Alternaria alternata	0	0.44	Dalian
+LOR206C	Alternaria arborescens	0	0.44	Dalian
+LOR206C	Amauroascus mutatus	0	0.44	Dalian
+LOR206C	Amauroascus niger	0	0.44	Dalian
+LOR206C	Chrysosporium queenslandicum	0	0.44	Dalian
+LOR206C	Clavaria fumosa	0	0.44	Dalian
+LOR206C	Malassezia furfur	0	0.44	Dalian
+LOR206C	Malassezia globosa	52.29475224	0.44	Dalian
+LOR206C	Malassezia restricta	0	0.44	Dalian
+LOR206C	Minor/Unclassified	30.82830499	0.44	Dalian
+LOR206C	Preussia sp. BSL10	4.273674762	0.44	Dalian
+LOR206C	Puccinia arachidis	12.60326801	0.44	Dalian
+LOR207C	Alternaria alternata	5.629690053	5.09	Dalian
+LOR207C	Alternaria arborescens	0	5.09	Dalian
+LOR207C	Amauroascus mutatus	0	5.09	Dalian
+LOR207C	Amauroascus niger	0.719131037	5.09	Dalian
+LOR207C	Chrysosporium queenslandicum	0	5.09	Dalian
+LOR207C	Clavaria fumosa	0	5.09	Dalian
+LOR207C	Malassezia furfur	0	5.09	Dalian
+LOR207C	Malassezia globosa	14.53025029	5.09	Dalian
+LOR207C	Malassezia restricta	78.53191175	5.09	Dalian
+LOR207C	Minor/Unclassified	0.589016862	5.09	Dalian
+LOR207C	Preussia sp. BSL10	0	5.09	Dalian
+LOR207C	Puccinia arachidis	0	5.09	Dalian
+LOR208C	Alternaria alternata	0	0.9	Dalian
+LOR208C	Alternaria arborescens	0	0.9	Dalian
+LOR208C	Amauroascus mutatus	0	0.9	Dalian
+LOR208C	Amauroascus niger	0	0.9	Dalian
+LOR208C	Chrysosporium queenslandicum	0	0.9	Dalian
+LOR208C	Clavaria fumosa	0	0.9	Dalian
+LOR208C	Malassezia furfur	0	0.9	Dalian
+LOR208C	Malassezia globosa	15.60209982	0.9	Dalian
+LOR208C	Malassezia restricta	84.39790018	0.9	Dalian
+LOR208C	Minor/Unclassified	0	0.9	Dalian
+LOR208C	Preussia sp. BSL10	0	0.9	Dalian
+LOR208C	Puccinia arachidis	0	0.9	Dalian
+LOR210C	Alternaria alternata	0.665637331	0.25	Dalian
+LOR210C	Alternaria arborescens	0	0.25	Dalian
+LOR210C	Amauroascus mutatus	0	0.25	Dalian
+LOR210C	Amauroascus niger	0	0.25	Dalian
+LOR210C	Chrysosporium queenslandicum	0	0.25	Dalian
+LOR210C	Clavaria fumosa	0	0.25	Dalian
+LOR210C	Malassezia furfur	0	0.25	Dalian
+LOR210C	Malassezia globosa	24.79556242	0.25	Dalian
+LOR210C	Malassezia restricta	60.3556928	0.25	Dalian
+LOR210C	Minor/Unclassified	12.30285355	0.25	Dalian
+LOR210C	Preussia sp. BSL10	1.880253903	0.25	Dalian
+LOR210C	Puccinia arachidis	0	0.25	Dalian
+LOR211C	Alternaria alternata	0	0	Dalian
+LOR211C	Alternaria arborescens	0	0	Dalian
+LOR211C	Amauroascus mutatus	0	0	Dalian
+LOR211C	Amauroascus niger	0	0	Dalian
+LOR211C	Chrysosporium queenslandicum	0	0	Dalian
+LOR211C	Clavaria fumosa	0	0	Dalian
+LOR211C	Malassezia furfur	0	0	Dalian
+LOR211C	Malassezia globosa	0	0	Dalian
+LOR211C	Malassezia restricta	0	0	Dalian
+LOR211C	Minor/Unclassified	0	0	Dalian
+LOR211C	Preussia sp. BSL10	0	0	Dalian
+LOR211C	Puccinia arachidis	0	0	Dalian
+LOR212C	Alternaria alternata	0	1.52	Dalian
+LOR212C	Alternaria arborescens	2.575878144	1.52	Dalian
+LOR212C	Amauroascus mutatus	0	1.52	Dalian
+LOR212C	Amauroascus niger	0	1.52	Dalian
+LOR212C	Chrysosporium queenslandicum	1.294557773	1.52	Dalian
+LOR212C	Clavaria fumosa	0	1.52	Dalian
+LOR212C	Malassezia furfur	40.20048647	1.52	Dalian
+LOR212C	Malassezia globosa	0	1.52	Dalian
+LOR212C	Malassezia restricta	35.61237276	1.52	Dalian
+LOR212C	Minor/Unclassified	13.51147668	1.52	Dalian
+LOR212C	Preussia sp. BSL10	0.779201634	1.52	Dalian
+LOR212C	Puccinia arachidis	6.026026538	1.52	Dalian
+LOR214C	Alternaria alternata	0	4.74	Dalian
+LOR214C	Alternaria arborescens	0.127890316	4.74	Dalian
+LOR214C	Amauroascus mutatus	0.287576008	4.74	Dalian
+LOR214C	Amauroascus niger	0	4.74	Dalian
+LOR214C	Chrysosporium queenslandicum	0	4.74	Dalian
+LOR214C	Clavaria fumosa	0	4.74	Dalian
+LOR214C	Malassezia furfur	0.266210325	4.74	Dalian
+LOR214C	Malassezia globosa	0	4.74	Dalian
+LOR214C	Malassezia restricta	95.73547058	4.74	Dalian
+LOR214C	Minor/Unclassified	3.582852774	4.74	Dalian
+LOR214C	Preussia sp. BSL10	0	4.74	Dalian
+LOR214C	Puccinia arachidis	0	4.74	Dalian
+LOR215C	Alternaria alternata	0	0.01	Dalian
+LOR215C	Alternaria arborescens	0	0.01	Dalian
+LOR215C	Amauroascus mutatus	0	0.01	Dalian
+LOR215C	Amauroascus niger	0	0.01	Dalian
+LOR215C	Chrysosporium queenslandicum	0	0.01	Dalian
+LOR215C	Clavaria fumosa	0	0.01	Dalian
+LOR215C	Malassezia furfur	0	0.01	Dalian
+LOR215C	Malassezia globosa	91.04019228	0.01	Dalian
+LOR215C	Malassezia restricta	0	0.01	Dalian
+LOR215C	Minor/Unclassified	8.959807718	0.01	Dalian
+LOR215C	Preussia sp. BSL10	0	0.01	Dalian
+LOR215C	Puccinia arachidis	0	0.01	Dalian
+LOR216C	Alternaria alternata	0	0.53	Dalian
+LOR216C	Alternaria arborescens	24.50371763	0.53	Dalian
+LOR216C	Amauroascus mutatus	0	0.53	Dalian
+LOR216C	Amauroascus niger	0	0.53	Dalian
+LOR216C	Chrysosporium queenslandicum	0	0.53	Dalian
+LOR216C	Clavaria fumosa	0	0.53	Dalian
+LOR216C	Malassezia furfur	0	0.53	Dalian
+LOR216C	Malassezia globosa	0	0.53	Dalian
+LOR216C	Malassezia restricta	0	0.53	Dalian
+LOR216C	Minor/Unclassified	45.42884933	0.53	Dalian
+LOR216C	Preussia sp. BSL10	30.06743304	0.53	Dalian
+LOR216C	Puccinia arachidis	0	0.53	Dalian
+LOR217C	Alternaria alternata	33.11036789	0.02	Dalian
+LOR217C	Alternaria arborescens	14.01641836	0.02	Dalian
+LOR217C	Amauroascus mutatus	0	0.02	Dalian
+LOR217C	Amauroascus niger	0	0.02	Dalian
+LOR217C	Chrysosporium queenslandicum	0	0.02	Dalian
+LOR217C	Clavaria fumosa	0	0.02	Dalian
+LOR217C	Malassezia furfur	0	0.02	Dalian
+LOR217C	Malassezia globosa	0	0.02	Dalian
+LOR217C	Malassezia restricta	0	0.02	Dalian
+LOR217C	Minor/Unclassified	52.87321374	0.02	Dalian
+LOR217C	Preussia sp. BSL10	0	0.02	Dalian
+LOR217C	Puccinia arachidis	0	0.02	Dalian
+LOR218C	Alternaria alternata	0.150243161	5.65	Dalian
+LOR218C	Alternaria arborescens	0	5.65	Dalian
+LOR218C	Amauroascus mutatus	0	5.65	Dalian
+LOR218C	Amauroascus niger	0	5.65	Dalian
+LOR218C	Chrysosporium queenslandicum	0.105559191	5.65	Dalian
+LOR218C	Clavaria fumosa	0	5.65	Dalian
+LOR218C	Malassezia furfur	0	5.65	Dalian
+LOR218C	Malassezia globosa	0	5.65	Dalian
+LOR218C	Malassezia restricta	99.09635303	5.65	Dalian
+LOR218C	Minor/Unclassified	0.513792711	5.65	Dalian
+LOR218C	Preussia sp. BSL10	0.134051907	5.65	Dalian
+LOR218C	Puccinia arachidis	0	5.65	Dalian
+LOR219C	Alternaria alternata	0.721171993	0.81	Dalian
+LOR219C	Alternaria arborescens	0	0.81	Dalian
+LOR219C	Amauroascus mutatus	0	0.81	Dalian
+LOR219C	Amauroascus niger	0	0.81	Dalian
+LOR219C	Chrysosporium queenslandicum	2.530318977	0.81	Dalian
+LOR219C	Clavaria fumosa	0	0.81	Dalian
+LOR219C	Malassezia furfur	0	0.81	Dalian
+LOR219C	Malassezia globosa	57.73461404	0.81	Dalian
+LOR219C	Malassezia restricta	32.8444107	0.81	Dalian
+LOR219C	Minor/Unclassified	5.573540448	0.81	Dalian
+LOR219C	Preussia sp. BSL10	0.595943852	0.81	Dalian
+LOR219C	Puccinia arachidis	0	0.81	Dalian
+LOR220C	Alternaria alternata	0	1.4	Dalian
+LOR220C	Alternaria arborescens	0	1.4	Dalian
+LOR220C	Amauroascus mutatus	2.001144226	1.4	Dalian
+LOR220C	Amauroascus niger	0	1.4	Dalian
+LOR220C	Chrysosporium queenslandicum	0	1.4	Dalian
+LOR220C	Clavaria fumosa	0	1.4	Dalian
+LOR220C	Malassezia furfur	2.32315306	1.4	Dalian
+LOR220C	Malassezia globosa	0	1.4	Dalian
+LOR220C	Malassezia restricta	79.99824927	1.4	Dalian
+LOR220C	Minor/Unclassified	10.30365746	1.4	Dalian
+LOR220C	Preussia sp. BSL10	0	1.4	Dalian
+LOR220C	Puccinia arachidis	5.373795984	1.4	Dalian
+LOR221C	Alternaria alternata	6.959426027	2.64	Dalian
+LOR221C	Alternaria arborescens	3.131213171	2.64	Dalian
+LOR221C	Amauroascus mutatus	0.954073141	2.64	Dalian
+LOR221C	Amauroascus niger	0	2.64	Dalian
+LOR221C	Chrysosporium queenslandicum	0	2.64	Dalian
+LOR221C	Clavaria fumosa	0	2.64	Dalian
+LOR221C	Malassezia furfur	0.496828753	2.64	Dalian
+LOR221C	Malassezia globosa	0	2.64	Dalian
+LOR221C	Malassezia restricta	23.4078539	2.64	Dalian
+LOR221C	Minor/Unclassified	58.08398182	2.64	Dalian
+LOR221C	Preussia sp. BSL10	3.935495479	2.64	Dalian
+LOR221C	Puccinia arachidis	3.031127705	2.64	Dalian
+LOR222C	Alternaria alternata	0	0.52	Dalian
+LOR222C	Alternaria arborescens	0	0.52	Dalian
+LOR222C	Amauroascus mutatus	0	0.52	Dalian
+LOR222C	Amauroascus niger	0	0.52	Dalian
+LOR222C	Chrysosporium queenslandicum	0	0.52	Dalian
+LOR222C	Clavaria fumosa	0	0.52	Dalian
+LOR222C	Malassezia furfur	0	0.52	Dalian
+LOR222C	Malassezia globosa	0	0.52	Dalian
+LOR222C	Malassezia restricta	99.14358399	0.52	Dalian
+LOR222C	Minor/Unclassified	0.85641601	0.52	Dalian
+LOR222C	Preussia sp. BSL10	0	0.52	Dalian
+LOR222C	Puccinia arachidis	0	0.52	Dalian
+LOR223C	Alternaria alternata	0	0.64	Dalian
+LOR223C	Alternaria arborescens	0	0.64	Dalian
+LOR223C	Amauroascus mutatus	4.30021581	0.64	Dalian
+LOR223C	Amauroascus niger	4.074814164	0.64	Dalian
+LOR223C	Chrysosporium queenslandicum	0	0.64	Dalian
+LOR223C	Clavaria fumosa	0	0.64	Dalian
+LOR223C	Malassezia furfur	0	0.64	Dalian
+LOR223C	Malassezia globosa	0	0.64	Dalian
+LOR223C	Malassezia restricta	0	0.64	Dalian
+LOR223C	Minor/Unclassified	91.62497003	0.64	Dalian
+LOR223C	Preussia sp. BSL10	0	0.64	Dalian
+LOR223C	Puccinia arachidis	0	0.64	Dalian
+LOR224C	Alternaria alternata	0	1.48	Dalian
+LOR224C	Alternaria arborescens	0	1.48	Dalian
+LOR224C	Amauroascus mutatus	0	1.48	Dalian
+LOR224C	Amauroascus niger	0	1.48	Dalian
+LOR224C	Chrysosporium queenslandicum	0	1.48	Dalian
+LOR224C	Clavaria fumosa	0	1.48	Dalian
+LOR224C	Malassezia furfur	0.081676264	1.48	Dalian
+LOR224C	Malassezia globosa	2.932126511	1.48	Dalian
+LOR224C	Malassezia restricta	94.8970314	1.48	Dalian
+LOR224C	Minor/Unclassified	2.021872801	1.48	Dalian
+LOR224C	Preussia sp. BSL10	0.067293023	1.48	Dalian
+LOR224C	Puccinia arachidis	0	1.48	Dalian
+LOR225C	Alternaria alternata	0.644156486	1.09	Dalian
+LOR225C	Alternaria arborescens	0.280605154	1.09	Dalian
+LOR225C	Amauroascus mutatus	0	1.09	Dalian
+LOR225C	Amauroascus niger	0	1.09	Dalian
+LOR225C	Chrysosporium queenslandicum	1.225662136	1.09	Dalian
+LOR225C	Clavaria fumosa	0	1.09	Dalian
+LOR225C	Malassezia furfur	0.328255086	1.09	Dalian
+LOR225C	Malassezia globosa	10.7552073	1.09	Dalian
+LOR225C	Malassezia restricta	82.69160346	1.09	Dalian
+LOR225C	Minor/Unclassified	2.761048827	1.09	Dalian
+LOR225C	Preussia sp. BSL10	1.313461547	1.09	Dalian
+LOR225C	Puccinia arachidis	0	1.09	Dalian
+LOR226C	Alternaria alternata	0	0.08	Dalian
+LOR226C	Alternaria arborescens	1.807645736	0.08	Dalian
+LOR226C	Amauroascus mutatus	46.40633108	0.08	Dalian
+LOR226C	Amauroascus niger	0	0.08	Dalian
+LOR226C	Chrysosporium queenslandicum	24.46808511	0.08	Dalian
+LOR226C	Clavaria fumosa	0	0.08	Dalian
+LOR226C	Malassezia furfur	0	0.08	Dalian
+LOR226C	Malassezia globosa	0	0.08	Dalian
+LOR226C	Malassezia restricta	0	0.08	Dalian
+LOR226C	Minor/Unclassified	27.31793807	0.08	Dalian
+LOR226C	Preussia sp. BSL10	0	0.08	Dalian
+LOR226C	Puccinia arachidis	0	0.08	Dalian
+LOR227C	Alternaria alternata	0.228225123	6.05	Dalian
+LOR227C	Alternaria arborescens	0	6.05	Dalian
+LOR227C	Amauroascus mutatus	0	6.05	Dalian
+LOR227C	Amauroascus niger	0	6.05	Dalian
+LOR227C	Chrysosporium queenslandicum	0	6.05	Dalian
+LOR227C	Clavaria fumosa	0	6.05	Dalian
+LOR227C	Malassezia furfur	0.052038078	6.05	Dalian
+LOR227C	Malassezia globosa	7.217275817	6.05	Dalian
+LOR227C	Malassezia restricta	90.81070788	6.05	Dalian
+LOR227C	Minor/Unclassified	1.691753098	6.05	Dalian
+LOR227C	Preussia sp. BSL10	0	6.05	Dalian
+LOR227C	Puccinia arachidis	0	6.05	Dalian
+LOR228C	Alternaria alternata	0	14	Dalian
+LOR228C	Alternaria arborescens	0	14	Dalian
+LOR228C	Amauroascus mutatus	0	14	Dalian
+LOR228C	Amauroascus niger	0	14	Dalian
+LOR228C	Chrysosporium queenslandicum	0.032191507	14	Dalian
+LOR228C	Clavaria fumosa	0	14	Dalian
+LOR228C	Malassezia furfur	0	14	Dalian
+LOR228C	Malassezia globosa	6.663775516	14	Dalian
+LOR228C	Malassezia restricta	93.1758903	14	Dalian
+LOR228C	Minor/Unclassified	0.108061946	14	Dalian
+LOR228C	Preussia sp. BSL10	0.020080733	14	Dalian
+LOR228C	Puccinia arachidis	0	14	Dalian
+LOR229C	Alternaria alternata	1.753881081	1.57	Dalian
+LOR229C	Alternaria arborescens	0.841367292	1.57	Dalian
+LOR229C	Amauroascus mutatus	0	1.57	Dalian
+LOR229C	Amauroascus niger	0	1.57	Dalian
+LOR229C	Chrysosporium queenslandicum	0	1.57	Dalian
+LOR229C	Clavaria fumosa	0	1.57	Dalian
+LOR229C	Malassezia furfur	0	1.57	Dalian
+LOR229C	Malassezia globosa	0	1.57	Dalian
+LOR229C	Malassezia restricta	92.79421875	1.57	Dalian
+LOR229C	Minor/Unclassified	3.953826723	1.57	Dalian
+LOR229C	Preussia sp. BSL10	0.656706157	1.57	Dalian
+LOR229C	Puccinia arachidis	0	1.57	Dalian
+LOR230C	Alternaria alternata	0	1.99	Dalian
+LOR230C	Alternaria arborescens	0.78353121	1.99	Dalian
+LOR230C	Amauroascus mutatus	0	1.99	Dalian
+LOR230C	Amauroascus niger	0	1.99	Dalian
+LOR230C	Chrysosporium queenslandicum	0.321496352	1.99	Dalian
+LOR230C	Clavaria fumosa	1.96800368	1.99	Dalian
+LOR230C	Malassezia furfur	0	1.99	Dalian
+LOR230C	Malassezia globosa	6.640850943	1.99	Dalian
+LOR230C	Malassezia restricta	89.06099371	1.99	Dalian
+LOR230C	Minor/Unclassified	1.225124103	1.99	Dalian
+LOR230C	Preussia sp. BSL10	0	1.99	Dalian
+LOR230C	Puccinia arachidis	0	1.99	Dalian
+LOR231C	Alternaria alternata	0	3.03	Dalian
+LOR231C	Alternaria arborescens	0	3.03	Dalian
+LOR231C	Amauroascus mutatus	0	3.03	Dalian
+LOR231C	Amauroascus niger	0	3.03	Dalian
+LOR231C	Chrysosporium queenslandicum	0	3.03	Dalian
+LOR231C	Clavaria fumosa	0	3.03	Dalian
+LOR231C	Malassezia furfur	0	3.03	Dalian
+LOR231C	Malassezia globosa	5.033505055	3.03	Dalian
+LOR231C	Malassezia restricta	94.96649495	3.03	Dalian
+LOR231C	Minor/Unclassified	0	3.03	Dalian
+LOR231C	Preussia sp. BSL10	0	3.03	Dalian
+LOR231C	Puccinia arachidis	0	3.03	Dalian
+LOR233C	Alternaria alternata	0	7.01	Dalian
+LOR233C	Alternaria arborescens	0	7.01	Dalian
+LOR233C	Amauroascus mutatus	0	7.01	Dalian
+LOR233C	Amauroascus niger	0	7.01	Dalian
+LOR233C	Chrysosporium queenslandicum	0	7.01	Dalian
+LOR233C	Clavaria fumosa	0	7.01	Dalian
+LOR233C	Malassezia furfur	0	7.01	Dalian
+LOR233C	Malassezia globosa	3.91771162	7.01	Dalian
+LOR233C	Malassezia restricta	96.01120573	7.01	Dalian
+LOR233C	Minor/Unclassified	0.071082655	7.01	Dalian
+LOR233C	Preussia sp. BSL10	0	7.01	Dalian
+LOR233C	Puccinia arachidis	0	7.01	Dalian
+LOR234C	Alternaria alternata	0	1.83	Dalian
+LOR234C	Alternaria arborescens	2.720741643	1.83	Dalian
+LOR234C	Amauroascus mutatus	1.380195795	1.83	Dalian
+LOR234C	Amauroascus niger	0	1.83	Dalian
+LOR234C	Chrysosporium queenslandicum	0	1.83	Dalian
+LOR234C	Clavaria fumosa	0	1.83	Dalian
+LOR234C	Malassezia furfur	0	1.83	Dalian
+LOR234C	Malassezia globosa	3.308410509	1.83	Dalian
+LOR234C	Malassezia restricta	82.89812796	1.83	Dalian
+LOR234C	Minor/Unclassified	9.692524097	1.83	Dalian
+LOR234C	Preussia sp. BSL10	0	1.83	Dalian
+LOR234C	Puccinia arachidis	0	1.83	Dalian
+LOR235C	Alternaria alternata	36.91591891	0.1	Dalian
+LOR235C	Alternaria arborescens	0	0.1	Dalian
+LOR235C	Amauroascus mutatus	0	0.1	Dalian
+LOR235C	Amauroascus niger	0	0.1	Dalian
+LOR235C	Chrysosporium queenslandicum	0	0.1	Dalian
+LOR235C	Clavaria fumosa	0	0.1	Dalian
+LOR235C	Malassezia furfur	0	0.1	Dalian
+LOR235C	Malassezia globosa	0	0.1	Dalian
+LOR235C	Malassezia restricta	0	0.1	Dalian
+LOR235C	Minor/Unclassified	40.49850449	0.1	Dalian
+LOR235C	Preussia sp. BSL10	22.5855766	0.1	Dalian
+LOR235C	Puccinia arachidis	0	0.1	Dalian
+LOR237C	Alternaria alternata	9.231465929	5.54	Dalian
+LOR237C	Alternaria arborescens	4.370039192	5.54	Dalian
+LOR237C	Amauroascus mutatus	0.551081909	5.54	Dalian
+LOR237C	Amauroascus niger	0	5.54	Dalian
+LOR237C	Chrysosporium queenslandicum	0	5.54	Dalian
+LOR237C	Clavaria fumosa	0	5.54	Dalian
+LOR237C	Malassezia furfur	0	5.54	Dalian
+LOR237C	Malassezia globosa	0	5.54	Dalian
+LOR237C	Malassezia restricta	81.14415572	5.54	Dalian
+LOR237C	Minor/Unclassified	3.217814445	5.54	Dalian
+LOR237C	Preussia sp. BSL10	0.660178507	5.54	Dalian
+LOR237C	Puccinia arachidis	0.825264302	5.54	Dalian
+LOR238C	Alternaria alternata	35.48438215	0.39	Dalian
+LOR238C	Alternaria arborescens	14.30432792	0.39	Dalian
+LOR238C	Amauroascus mutatus	0	0.39	Dalian
+LOR238C	Amauroascus niger	10.44652604	0.39	Dalian
+LOR238C	Chrysosporium queenslandicum	0	0.39	Dalian
+LOR238C	Clavaria fumosa	0	0.39	Dalian
+LOR238C	Malassezia furfur	0	0.39	Dalian
+LOR238C	Malassezia globosa	13.31302602	0.39	Dalian
+LOR238C	Malassezia restricta	0	0.39	Dalian
+LOR238C	Minor/Unclassified	17.32929535	0.39	Dalian
+LOR238C	Preussia sp. BSL10	9.122442512	0.39	Dalian
+LOR238C	Puccinia arachidis	0	0.39	Dalian
+LOR239C	Alternaria alternata	10.05169181	6.15	Dalian
+LOR239C	Alternaria arborescens	4.140581448	6.15	Dalian
+LOR239C	Amauroascus mutatus	0.279406051	6.15	Dalian
+LOR239C	Amauroascus niger	0.416237309	6.15	Dalian
+LOR239C	Chrysosporium queenslandicum	0	6.15	Dalian
+LOR239C	Clavaria fumosa	0	6.15	Dalian
+LOR239C	Malassezia furfur	0.091220839	6.15	Dalian
+LOR239C	Malassezia globosa	0	6.15	Dalian
+LOR239C	Malassezia restricta	80.92470902	6.15	Dalian
+LOR239C	Minor/Unclassified	3.278713449	6.15	Dalian
+LOR239C	Preussia sp. BSL10	0.817440073	6.15	Dalian
+LOR239C	Puccinia arachidis	0	6.15	Dalian
+LOR240C	Alternaria alternata	13.18097393	0.59	Dalian
+LOR240C	Alternaria arborescens	5.600011172	0.59	Dalian
+LOR240C	Amauroascus mutatus	0	0.59	Dalian
+LOR240C	Amauroascus niger	0	0.59	Dalian
+LOR240C	Chrysosporium queenslandicum	0	0.59	Dalian
+LOR240C	Clavaria fumosa	0	0.59	Dalian
+LOR240C	Malassezia furfur	0	0.59	Dalian
+LOR240C	Malassezia globosa	1.744242881	0.59	Dalian
+LOR240C	Malassezia restricta	67.18966023	0.59	Dalian
+LOR240C	Minor/Unclassified	9.875431173	0.59	Dalian
+LOR240C	Preussia sp. BSL10	2.409680618	0.59	Dalian
+LOR240C	Puccinia arachidis	0	0.59	Dalian
+LOR241C	Alternaria alternata	0	0	Dalian
+LOR241C	Alternaria arborescens	0	0	Dalian
+LOR241C	Amauroascus mutatus	0	0	Dalian
+LOR241C	Amauroascus niger	0	0	Dalian
+LOR241C	Chrysosporium queenslandicum	0	0	Dalian
+LOR241C	Clavaria fumosa	0	0	Dalian
+LOR241C	Malassezia furfur	0	0	Dalian
+LOR241C	Malassezia globosa	0	0	Dalian
+LOR241C	Malassezia restricta	0	0	Dalian
+LOR241C	Minor/Unclassified	0	0	Dalian
+LOR241C	Preussia sp. BSL10	0	0	Dalian
+LOR241C	Puccinia arachidis	0	0	Dalian
+LOR242C	Alternaria alternata	0	0.47	Dalian
+LOR242C	Alternaria arborescens	3.288152309	0.47	Dalian
+LOR242C	Amauroascus mutatus	0	0.47	Dalian
+LOR242C	Amauroascus niger	0	0.47	Dalian
+LOR242C	Chrysosporium queenslandicum	1.689778344	0.47	Dalian
+LOR242C	Clavaria fumosa	0	0.47	Dalian
+LOR242C	Malassezia furfur	0.441988286	0.47	Dalian
+LOR242C	Malassezia globosa	3.401806439	0.47	Dalian
+LOR242C	Malassezia restricta	22.71759655	0.47	Dalian
+LOR242C	Minor/Unclassified	66.34454641	0.47	Dalian
+LOR242C	Preussia sp. BSL10	2.11613167	0.47	Dalian
+LOR242C	Puccinia arachidis	0	0.47	Dalian
+LOR243C	Alternaria alternata	0	6.25	Dalian
+LOR243C	Alternaria arborescens	1.36836672	6.25	Dalian
+LOR243C	Amauroascus mutatus	0.741712545	6.25	Dalian
+LOR243C	Amauroascus niger	1.138418936	6.25	Dalian
+LOR243C	Chrysosporium queenslandicum	0	6.25	Dalian
+LOR243C	Clavaria fumosa	0	6.25	Dalian
+LOR243C	Malassezia furfur	0	6.25	Dalian
+LOR243C	Malassezia globosa	4.684277975	6.25	Dalian
+LOR243C	Malassezia restricta	91.39917567	6.25	Dalian
+LOR243C	Minor/Unclassified	0.324900507	6.25	Dalian
+LOR243C	Preussia sp. BSL10	0.343147649	6.25	Dalian
+LOR243C	Puccinia arachidis	0	6.25	Dalian
+LOR246C	Alternaria alternata	1.313866865	3.29	Dalian
+LOR246C	Alternaria arborescens	0	3.29	Dalian
+LOR246C	Amauroascus mutatus	0	3.29	Dalian
+LOR246C	Amauroascus niger	0	3.29	Dalian
+LOR246C	Chrysosporium queenslandicum	0	3.29	Dalian
+LOR246C	Clavaria fumosa	0	3.29	Dalian
+LOR246C	Malassezia furfur	0	3.29	Dalian
+LOR246C	Malassezia globosa	0	3.29	Dalian
+LOR246C	Malassezia restricta	95.10473807	3.29	Dalian
+LOR246C	Minor/Unclassified	3.58139507	3.29	Dalian
+LOR246C	Preussia sp. BSL10	0	3.29	Dalian
+LOR246C	Puccinia arachidis	0	3.29	Dalian
+LOR248C	Alternaria alternata	0	0.56	Dalian
+LOR248C	Alternaria arborescens	0	0.56	Dalian
+LOR248C	Amauroascus mutatus	0	0.56	Dalian
+LOR248C	Amauroascus niger	0	0.56	Dalian
+LOR248C	Chrysosporium queenslandicum	0	0.56	Dalian
+LOR248C	Clavaria fumosa	0	0.56	Dalian
+LOR248C	Malassezia furfur	0	0.56	Dalian
+LOR248C	Malassezia globosa	7.669886742	0.56	Dalian
+LOR248C	Malassezia restricta	92.33011326	0.56	Dalian
+LOR248C	Minor/Unclassified	0	0.56	Dalian
+LOR248C	Preussia sp. BSL10	0	0.56	Dalian
+LOR248C	Puccinia arachidis	0	0.56	Dalian
+LOR249C	Alternaria alternata	0	5.8	Dalian
+LOR249C	Alternaria arborescens	0.115773238	5.8	Dalian
+LOR249C	Amauroascus mutatus	0	5.8	Dalian
+LOR249C	Amauroascus niger	0	5.8	Dalian
+LOR249C	Chrysosporium queenslandicum	0	5.8	Dalian
+LOR249C	Clavaria fumosa	0	5.8	Dalian
+LOR249C	Malassezia furfur	0	5.8	Dalian
+LOR249C	Malassezia globosa	1.941320434	5.8	Dalian
+LOR249C	Malassezia restricta	97.94290633	5.8	Dalian
+LOR249C	Minor/Unclassified	0	5.8	Dalian
+LOR249C	Preussia sp. BSL10	0	5.8	Dalian
+LOR249C	Puccinia arachidis	0	5.8	Dalian
+LOR254C	Alternaria alternata	0	1.21	Dalian
+LOR254C	Alternaria arborescens	0	1.21	Dalian
+LOR254C	Amauroascus mutatus	0	1.21	Dalian
+LOR254C	Amauroascus niger	0	1.21	Dalian
+LOR254C	Chrysosporium queenslandicum	0	1.21	Dalian
+LOR254C	Clavaria fumosa	0	1.21	Dalian
+LOR254C	Malassezia furfur	0	1.21	Dalian
+LOR254C	Malassezia globosa	6.164073313	1.21	Dalian
+LOR254C	Malassezia restricta	93.83592669	1.21	Dalian
+LOR254C	Minor/Unclassified	0	1.21	Dalian
+LOR254C	Preussia sp. BSL10	0	1.21	Dalian
+LOR254C	Puccinia arachidis	0	1.21	Dalian
+LOR258C	Alternaria alternata	0	3.76	Dalian
+LOR258C	Alternaria arborescens	0.358374779	3.76	Dalian
+LOR258C	Amauroascus mutatus	0	3.76	Dalian
+LOR258C	Amauroascus niger	0	3.76	Dalian
+LOR258C	Chrysosporium queenslandicum	0.360198325	3.76	Dalian
+LOR258C	Clavaria fumosa	0	3.76	Dalian
+LOR258C	Malassezia furfur	0	3.76	Dalian
+LOR258C	Malassezia globosa	1.023681144	3.76	Dalian
+LOR258C	Malassezia restricta	98.07980605	3.76	Dalian
+LOR258C	Minor/Unclassified	0.1779397	3.76	Dalian
+LOR258C	Preussia sp. BSL10	0	3.76	Dalian
+LOR258C	Puccinia arachidis	0	3.76	Dalian
+LOR259C	Alternaria alternata	0.460288809	0.89	Dalian
+LOR259C	Alternaria arborescens	0.219614922	0.89	Dalian
+LOR259C	Amauroascus mutatus	0	0.89	Dalian
+LOR259C	Amauroascus niger	0	0.89	Dalian
+LOR259C	Chrysosporium queenslandicum	0	0.89	Dalian
+LOR259C	Clavaria fumosa	0	0.89	Dalian
+LOR259C	Malassezia furfur	0	0.89	Dalian
+LOR259C	Malassezia globosa	0	0.89	Dalian
+LOR259C	Malassezia restricta	97.99338147	0.89	Dalian
+LOR259C	Minor/Unclassified	1.326714801	0.89	Dalian
+LOR259C	Preussia sp. BSL10	0	0.89	Dalian
+LOR259C	Puccinia arachidis	0	0.89	Dalian
+LOR260C	Alternaria alternata	0	0.81	Dalian
+LOR260C	Alternaria arborescens	0	0.81	Dalian
+LOR260C	Amauroascus mutatus	0	0.81	Dalian
+LOR260C	Amauroascus niger	30.66710246	0.81	Dalian
+LOR260C	Chrysosporium queenslandicum	0	0.81	Dalian
+LOR260C	Clavaria fumosa	0	0.81	Dalian
+LOR260C	Malassezia furfur	0	0.81	Dalian
+LOR260C	Malassezia globosa	52.13745534	0.81	Dalian
+LOR260C	Malassezia restricta	0	0.81	Dalian
+LOR260C	Minor/Unclassified	17.1954422	0.81	Dalian
+LOR260C	Preussia sp. BSL10	0	0.81	Dalian
+LOR260C	Puccinia arachidis	0	0.81	Dalian
+LOR262C	Alternaria alternata	24.26140577	0.96	Dalian
+LOR262C	Alternaria arborescens	10.51594271	0.96	Dalian
+LOR262C	Amauroascus mutatus	0	0.96	Dalian
+LOR262C	Amauroascus niger	0	0.96	Dalian
+LOR262C	Chrysosporium queenslandicum	1.991374937	0.96	Dalian
+LOR262C	Clavaria fumosa	0	0.96	Dalian
+LOR262C	Malassezia furfur	0	0.96	Dalian
+LOR262C	Malassezia globosa	0	0.96	Dalian
+LOR262C	Malassezia restricta	62.96540218	0.96	Dalian
+LOR262C	Minor/Unclassified	0.26587441	0.96	Dalian
+LOR262C	Preussia sp. BSL10	0	0.96	Dalian
+LOR262C	Puccinia arachidis	0	0.96	Dalian
+LOR264C	Alternaria alternata	0	0.15	Dalian
+LOR264C	Alternaria arborescens	1.746978531	0.15	Dalian
+LOR264C	Amauroascus mutatus	23.28708978	0.15	Dalian
+LOR264C	Amauroascus niger	0	0.15	Dalian
+LOR264C	Chrysosporium queenslandicum	7.191207024	0.15	Dalian
+LOR264C	Clavaria fumosa	0	0.15	Dalian
+LOR264C	Malassezia furfur	0	0.15	Dalian
+LOR264C	Malassezia globosa	52.09883162	0.15	Dalian
+LOR264C	Malassezia restricta	0	0.15	Dalian
+LOR264C	Minor/Unclassified	8.612023323	0.15	Dalian
+LOR264C	Preussia sp. BSL10	7.063869714	0.15	Dalian
+LOR264C	Puccinia arachidis	0	0.15	Dalian
+LOR269C	Alternaria alternata	0	1.47	Dalian
+LOR269C	Alternaria arborescens	0	1.47	Dalian
+LOR269C	Amauroascus mutatus	0	1.47	Dalian
+LOR269C	Amauroascus niger	0	1.47	Dalian
+LOR269C	Chrysosporium queenslandicum	0	1.47	Dalian
+LOR269C	Clavaria fumosa	0	1.47	Dalian
+LOR269C	Malassezia furfur	0	1.47	Dalian
+LOR269C	Malassezia globosa	4.215613037	1.47	Dalian
+LOR269C	Malassezia restricta	93.3129202	1.47	Dalian
+LOR269C	Minor/Unclassified	2.471466763	1.47	Dalian
+LOR269C	Preussia sp. BSL10	0	1.47	Dalian
+LOR269C	Puccinia arachidis	0	1.47	Dalian
+LOR270C	Alternaria alternata	0	1.6	Dalian
+LOR270C	Alternaria arborescens	0	1.6	Dalian
+LOR270C	Amauroascus mutatus	0	1.6	Dalian
+LOR270C	Amauroascus niger	0	1.6	Dalian
+LOR270C	Chrysosporium queenslandicum	0	1.6	Dalian
+LOR270C	Clavaria fumosa	0	1.6	Dalian
+LOR270C	Malassezia furfur	0	1.6	Dalian
+LOR270C	Malassezia globosa	6.086176889	1.6	Dalian
+LOR270C	Malassezia restricta	93.20183535	1.6	Dalian
+LOR270C	Minor/Unclassified	0	1.6	Dalian
+LOR270C	Preussia sp. BSL10	0.711987764	1.6	Dalian
+LOR270C	Puccinia arachidis	0	1.6	Dalian
+LOR272C	Alternaria alternata	0	0.43	Dalian
+LOR272C	Alternaria arborescens	0.43474323	0.43	Dalian
+LOR272C	Amauroascus mutatus	0	0.43	Dalian
+LOR272C	Amauroascus niger	0	0.43	Dalian
+LOR272C	Chrysosporium queenslandicum	9.179422154	0.43	Dalian
+LOR272C	Clavaria fumosa	0	0.43	Dalian
+LOR272C	Malassezia furfur	0	0.43	Dalian
+LOR272C	Malassezia globosa	0	0.43	Dalian
+LOR272C	Malassezia restricta	67.75201522	0.43	Dalian
+LOR272C	Minor/Unclassified	5.248618785	0.43	Dalian
+LOR272C	Preussia sp. BSL10	0	0.43	Dalian
+LOR272C	Puccinia arachidis	17.38520062	0.43	Dalian
+LOR274C	Alternaria alternata	0	1.64	Dalian
+LOR274C	Alternaria arborescens	0	1.64	Dalian
+LOR274C	Amauroascus mutatus	0	1.64	Dalian
+LOR274C	Amauroascus niger	1.744014489	1.64	Dalian
+LOR274C	Chrysosporium queenslandicum	0	1.64	Dalian
+LOR274C	Clavaria fumosa	0	1.64	Dalian
+LOR274C	Malassezia furfur	0	1.64	Dalian
+LOR274C	Malassezia globosa	0	1.64	Dalian
+LOR274C	Malassezia restricta	98.25598551	1.64	Dalian
+LOR274C	Minor/Unclassified	0	1.64	Dalian
+LOR274C	Preussia sp. BSL10	0	1.64	Dalian
+LOR274C	Puccinia arachidis	0	1.64	Dalian
+LOR275C	Alternaria alternata	0	0.01	Dalian
+LOR275C	Alternaria arborescens	0	0.01	Dalian
+LOR275C	Amauroascus mutatus	0	0.01	Dalian
+LOR275C	Amauroascus niger	0	0.01	Dalian
+LOR275C	Chrysosporium queenslandicum	0	0.01	Dalian
+LOR275C	Clavaria fumosa	0	0.01	Dalian
+LOR275C	Malassezia furfur	0	0.01	Dalian
+LOR275C	Malassezia globosa	87.37393328	0.01	Dalian
+LOR275C	Malassezia restricta	0	0.01	Dalian
+LOR275C	Minor/Unclassified	12.62606672	0.01	Dalian
+LOR275C	Preussia sp. BSL10	0	0.01	Dalian
+LOR275C	Puccinia arachidis	0	0.01	Dalian
+LOR279C	Alternaria alternata	0	1.7	Dalian
+LOR279C	Alternaria arborescens	0	1.7	Dalian
+LOR279C	Amauroascus mutatus	0	1.7	Dalian
+LOR279C	Amauroascus niger	0	1.7	Dalian
+LOR279C	Chrysosporium queenslandicum	0	1.7	Dalian
+LOR279C	Clavaria fumosa	2.961652805	1.7	Dalian
+LOR279C	Malassezia furfur	0	1.7	Dalian
+LOR279C	Malassezia globosa	5.712027783	1.7	Dalian
+LOR279C	Malassezia restricta	89.7403917	1.7	Dalian
+LOR279C	Minor/Unclassified	1.585927714	1.7	Dalian
+LOR279C	Preussia sp. BSL10	0	1.7	Dalian
+LOR279C	Puccinia arachidis	0	1.7	Dalian
+LOR281C	Alternaria alternata	0	0.24	Dalian
+LOR281C	Alternaria arborescens	0	0.24	Dalian
+LOR281C	Amauroascus mutatus	0	0.24	Dalian
+LOR281C	Amauroascus niger	0	0.24	Dalian
+LOR281C	Chrysosporium queenslandicum	0	0.24	Dalian
+LOR281C	Clavaria fumosa	0	0.24	Dalian
+LOR281C	Malassezia furfur	0	0.24	Dalian
+LOR281C	Malassezia globosa	25.37805227	0.24	Dalian
+LOR281C	Malassezia restricta	0	0.24	Dalian
+LOR281C	Minor/Unclassified	0	0.24	Dalian
+LOR281C	Preussia sp. BSL10	2.241253064	0.24	Dalian
+LOR281C	Puccinia arachidis	72.38069466	0.24	Dalian
+LOR282C	Alternaria alternata	0	0.65	Dalian
+LOR282C	Alternaria arborescens	0	0.65	Dalian
+LOR282C	Amauroascus mutatus	0	0.65	Dalian
+LOR282C	Amauroascus niger	0	0.65	Dalian
+LOR282C	Chrysosporium queenslandicum	0	0.65	Dalian
+LOR282C	Clavaria fumosa	0	0.65	Dalian
+LOR282C	Malassezia furfur	0.723878898	0.65	Dalian
+LOR282C	Malassezia globosa	0	0.65	Dalian
+LOR282C	Malassezia restricta	96.26830564	0.65	Dalian
+LOR282C	Minor/Unclassified	2.577585553	0.65	Dalian
+LOR282C	Preussia sp. BSL10	0.430229911	0.65	Dalian
+LOR282C	Puccinia arachidis	0	0.65	Dalian
+LOR283C	Alternaria alternata	0	1.83	Dalian
+LOR283C	Alternaria arborescens	0	1.83	Dalian
+LOR283C	Amauroascus mutatus	0	1.83	Dalian
+LOR283C	Amauroascus niger	0	1.83	Dalian
+LOR283C	Chrysosporium queenslandicum	0	1.83	Dalian
+LOR283C	Clavaria fumosa	0	1.83	Dalian
+LOR283C	Malassezia furfur	0	1.83	Dalian
+LOR283C	Malassezia globosa	30.38106622	1.83	Dalian
+LOR283C	Malassezia restricta	69.61893378	1.83	Dalian
+LOR283C	Minor/Unclassified	0	1.83	Dalian
+LOR283C	Preussia sp. BSL10	0	1.83	Dalian
+LOR283C	Puccinia arachidis	0	1.83	Dalian
+LOR284C	Alternaria alternata	0	0.59	Dalian
+LOR284C	Alternaria arborescens	0	0.59	Dalian
+LOR284C	Amauroascus mutatus	22.27198984	0.59	Dalian
+LOR284C	Amauroascus niger	0	0.59	Dalian
+LOR284C	Chrysosporium queenslandicum	10.46564355	0.59	Dalian
+LOR284C	Clavaria fumosa	0	0.59	Dalian
+LOR284C	Malassezia furfur	0	0.59	Dalian
+LOR284C	Malassezia globosa	36.24381544	0.59	Dalian
+LOR284C	Malassezia restricta	24.63346064	0.59	Dalian
+LOR284C	Minor/Unclassified	6.385090539	0.59	Dalian
+LOR284C	Preussia sp. BSL10	0	0.59	Dalian
+LOR284C	Puccinia arachidis	0	0.59	Dalian
+LOR287C	Alternaria alternata	0	4.12	Dalian
+LOR287C	Alternaria arborescens	0	4.12	Dalian
+LOR287C	Amauroascus mutatus	0	4.12	Dalian
+LOR287C	Amauroascus niger	0	4.12	Dalian
+LOR287C	Chrysosporium queenslandicum	0	4.12	Dalian
+LOR287C	Clavaria fumosa	0	4.12	Dalian
+LOR287C	Malassezia furfur	0	4.12	Dalian
+LOR287C	Malassezia globosa	8.374176162	4.12	Dalian
+LOR287C	Malassezia restricta	91.4170716	4.12	Dalian
+LOR287C	Minor/Unclassified	0.208752234	4.12	Dalian
+LOR287C	Preussia sp. BSL10	0	4.12	Dalian
+LOR287C	Puccinia arachidis	0	4.12	Dalian
+LOR288C	Alternaria alternata	0	12.61	Dalian
+LOR288C	Alternaria arborescens	0.188677006	12.61	Dalian
+LOR288C	Amauroascus mutatus	0	12.61	Dalian
+LOR288C	Amauroascus niger	0	12.61	Dalian
+LOR288C	Chrysosporium queenslandicum	0	12.61	Dalian
+LOR288C	Clavaria fumosa	0	12.61	Dalian
+LOR288C	Malassezia furfur	0.047593181	12.61	Dalian
+LOR288C	Malassezia globosa	1.700806201	12.61	Dalian
+LOR288C	Malassezia restricta	95.56784261	12.61	Dalian
+LOR288C	Minor/Unclassified	2.362193152	12.61	Dalian
+LOR288C	Preussia sp. BSL10	0.132887849	12.61	Dalian
+LOR288C	Puccinia arachidis	0	12.61	Dalian
+LOR289C	Alternaria alternata	0	0.24	Dalian
+LOR289C	Alternaria arborescens	4.440972519	0.24	Dalian
+LOR289C	Amauroascus mutatus	0	0.24	Dalian
+LOR289C	Amauroascus niger	0	0.24	Dalian
+LOR289C	Chrysosporium queenslandicum	0	0.24	Dalian
+LOR289C	Clavaria fumosa	0	0.24	Dalian
+LOR289C	Malassezia furfur	0	0.24	Dalian
+LOR289C	Malassezia globosa	0	0.24	Dalian
+LOR289C	Malassezia restricta	92.44713638	0.24	Dalian
+LOR289C	Minor/Unclassified	1.560226008	0.24	Dalian
+LOR289C	Preussia sp. BSL10	1.551665097	0.24	Dalian
+LOR289C	Puccinia arachidis	0	0.24	Dalian
+LOR294C	Alternaria alternata	2.900886382	0.24	Dalian
+LOR294C	Alternaria arborescens	0	0.24	Dalian
+LOR294C	Amauroascus mutatus	0	0.24	Dalian
+LOR294C	Amauroascus niger	0	0.24	Dalian
+LOR294C	Chrysosporium queenslandicum	0	0.24	Dalian
+LOR294C	Clavaria fumosa	0	0.24	Dalian
+LOR294C	Malassezia furfur	0	0.24	Dalian
+LOR294C	Malassezia globosa	97.09911362	0.24	Dalian
+LOR294C	Malassezia restricta	0	0.24	Dalian
+LOR294C	Minor/Unclassified	0	0.24	Dalian
+LOR294C	Preussia sp. BSL10	0	0.24	Dalian
+LOR294C	Puccinia arachidis	0	0.24	Dalian
+LOR295C	Alternaria alternata	0	0.48	Dalian
+LOR295C	Alternaria arborescens	0	0.48	Dalian
+LOR295C	Amauroascus mutatus	0	0.48	Dalian
+LOR295C	Amauroascus niger	22.58193422	0.48	Dalian
+LOR295C	Chrysosporium queenslandicum	7.715949626	0.48	Dalian
+LOR295C	Clavaria fumosa	0	0.48	Dalian
+LOR295C	Malassezia furfur	0	0.48	Dalian
+LOR295C	Malassezia globosa	2.643873371	0.48	Dalian
+LOR295C	Malassezia restricta	64.59771871	0.48	Dalian
+LOR295C	Minor/Unclassified	2.460524073	0.48	Dalian
+LOR295C	Preussia sp. BSL10	0	0.48	Dalian
+LOR295C	Puccinia arachidis	0	0.48	Dalian
+LOR299C	Alternaria alternata	0	1.51	Dalian
+LOR299C	Alternaria arborescens	0	1.51	Dalian
+LOR299C	Amauroascus mutatus	1.599187035	1.51	Dalian
+LOR299C	Amauroascus niger	0	1.51	Dalian
+LOR299C	Chrysosporium queenslandicum	0	1.51	Dalian
+LOR299C	Clavaria fumosa	0	1.51	Dalian
+LOR299C	Malassezia furfur	0	1.51	Dalian
+LOR299C	Malassezia globosa	9.239450179	1.51	Dalian
+LOR299C	Malassezia restricta	85.12595604	1.51	Dalian
+LOR299C	Minor/Unclassified	3.751047405	1.51	Dalian
+LOR299C	Preussia sp. BSL10	0.284359345	1.51	Dalian
+LOR299C	Puccinia arachidis	0	1.51	Dalian
+LOR300C	Alternaria alternata	0	3.87	Dalian
+LOR300C	Alternaria arborescens	1.507234727	3.87	Dalian
+LOR300C	Amauroascus mutatus	0	3.87	Dalian
+LOR300C	Amauroascus niger	0	3.87	Dalian
+LOR300C	Chrysosporium queenslandicum	0	3.87	Dalian
+LOR300C	Clavaria fumosa	0	3.87	Dalian
+LOR300C	Malassezia furfur	0	3.87	Dalian
+LOR300C	Malassezia globosa	18.40434084	3.87	Dalian
+LOR300C	Malassezia restricta	76.70819936	3.87	Dalian
+LOR300C	Minor/Unclassified	3.380225081	3.87	Dalian
+LOR300C	Preussia sp. BSL10	0	3.87	Dalian
+LOR300C	Puccinia arachidis	0	3.87	Dalian
+LOR301C	Alternaria alternata	2.405551545	2.56	Dalian
+LOR301C	Alternaria arborescens	0	2.56	Dalian
+LOR301C	Amauroascus mutatus	0	2.56	Dalian
+LOR301C	Amauroascus niger	0	2.56	Dalian
+LOR301C	Chrysosporium queenslandicum	0	2.56	Dalian
+LOR301C	Clavaria fumosa	0	2.56	Dalian
+LOR301C	Malassezia furfur	0.267480326	2.56	Dalian
+LOR301C	Malassezia globosa	0	2.56	Dalian
+LOR301C	Malassezia restricta	95.49933351	2.56	Dalian
+LOR301C	Minor/Unclassified	1.316587765	2.56	Dalian
+LOR301C	Preussia sp. BSL10	0.511046849	2.56	Dalian
+LOR301C	Puccinia arachidis	0	2.56	Dalian
+LOR303C	Alternaria alternata	5.989599957	1.41	Dalian
+LOR303C	Alternaria arborescens	0	1.41	Dalian
+LOR303C	Amauroascus mutatus	0	1.41	Dalian
+LOR303C	Amauroascus niger	0	1.41	Dalian
+LOR303C	Chrysosporium queenslandicum	0	1.41	Dalian
+LOR303C	Clavaria fumosa	0	1.41	Dalian
+LOR303C	Malassezia furfur	0	1.41	Dalian
+LOR303C	Malassezia globosa	3.991593544	1.41	Dalian
+LOR303C	Malassezia restricta	83.20599255	1.41	Dalian
+LOR303C	Minor/Unclassified	1.5352094	1.41	Dalian
+LOR303C	Preussia sp. BSL10	0	1.41	Dalian
+LOR303C	Puccinia arachidis	5.277604553	1.41	Dalian
