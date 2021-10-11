@@ -1,0 +1,70 @@
+Species
+Acinetobacter johnsonii
+Acinetobacter sp. BMW17
+Acinetobacter sp. MF4640
+Acinetobacter sp. MF4642
+Actinomyces sp. HMSC08A09
+Actinomyces viscosus
+alpha proteobacterium L41A
+Brachybacterium muris
+Brachybacterium paraconglomeratum
+Brachybacterium sp. SW0106-09
+Brevundimonas nasdae
+Brevundimonas sp. KM4
+Brevundimonas sp. UBA6550
+Brevundimonas sp. UBA7616
+Brevundimonas sp. ZS04
+Chryseobacterium haifense
+Corynebacterium accolens
+Corynebacterium afermentans
+Corynebacterium aurimucosum
+Corynebacterium durum
+Corynebacterium ihumii
+Corynebacterium lipophiloflavum
+Corynebacterium pseudogenitalium
+Corynebacterium sp. KPL1818
+Corynebacterium sp. KPL1824
+Corynebacterium sp. KPL1856
+Corynebacterium sp. KPL1859
+Corynebacterium sp. Marseille-P4122
+Corynebacterium sp. S5S1
+Corynebacterium tuberculostearicum
+Enhydrobacter sp. H5
+Enhydrobacter sp. UBA3108
+Enhydrobacter sp. UBA3337
+Enhydrobacter sp. UBA4101
+Enhydrobacter sp. UBA4390
+Enhydrobacter sp. UBA4563
+Haematobacter massiliensis
+Janibacter hoylei
+Janibacter indicus
+Janibacter sp. Marseille-P4121
+Kocuria marina
+Kocuria palustris
+Kocuria polaris
+Kocuria sp. WN036
+Micrococcaceae bacterium JKS001869
+Micrococcus aloeverae
+Micrococcus sp. CH7
+Micrococcus sp. KBS0714
+Micrococcus sp. MS-ASIII-49
+Micrococcus terreus
+Moraxella osloensis
+Neisseria sp. GT4A CT1
+Neisseria sp. HMSC068C04
+Neisseria sp. HMSC069H12
+Paracoccus chinensis
+Paracoccus sanguinis
+Paracoccus sp. 228
+Paracoccus sp. WN007
+Paracoccus sphaerophysae
+Porphyromonas sp. oral taxon 279
+Propionibacterium sp. 5 U 42AFAA
+Propionibacterium sp. HMSC067A02
+Propionibacterium sp. HMSC068C01
+Propionibacterium sp. HMSC069G10
+Propionibacterium sp. KPL2003
+Pseudomonadales bacterium RIFCSPHIGHO2 12 FULL 40 16
+Roseomonas sp. B5
+Sphingomonas sp. Ag1
+Streptococcus sp. M334
