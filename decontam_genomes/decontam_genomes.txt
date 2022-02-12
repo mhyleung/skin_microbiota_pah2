@@ -1,0 +1,1 @@
+This directory contains representative genomes of contaminants (as detected by decontam) used to perform mapping-based contamination read removal.
